@@ -1,0 +1,892 @@
+personalID;realChristmasTree;cityOfResidence;gender;age;serviceYears;familySize;invoiceNumberChristmasTree;KmDriven;accountClass;branch;name
+1;0;Leiden;male;22;2;0;32916;31087,5;;Rotterdam;WOHLWEND, Mr. thane
+2;1;Amsterdam;female;38;2;0;32437;40692,495;C;Amsterdam (the Edge);TANEJA, Mrs. susi
+3;1;Leiden;female;26;1;0;24104;31188,75;;Rotterdam;GALLI, Miss. kristina
+4;1;Amsterdam;female;35;2;0;43238;37965;C;Rotterdam;RIVA, Mrs. jolie
+5;0;Leiden;male;35;1;0;66325;31207,5;;Rotterdam;BRINGAS, Mr. alvan
+6;0;Leiden;male;NA;1;0;49297;31268,745;;Utrecht;TURCOTT, Mr. francklin
+7;0;Amsterdam;male;54;1;0;84071;37779,375;E;Rotterdam;OPIE, Mr. kennith
+8;0;Leiden;male;2;4;1;11117;33161,25;;Rotterdam;HOLTZLANDER, Master. ezri
+9;1;Leiden;female;27;1;2;74653;31669,995;;Rotterdam;TAPPEINER, Mrs. audi
+10;1;Utrecht;female;14;2;0;69316;34510,62;;Amsterdam (the Edge);GNAGEY, Mrs. dorine
+11;1;Leiden;female;4;2;1;57263;32505;G;Rotterdam;HUNDERLACH, Miss. henryetta
+12;1;Amsterdam;female;58;1;0;92852;33982,5;C;Rotterdam;VANHEEL, Miss. kristina
+13;0;Leiden;male;20;1;0;62308;31207,5;;Rotterdam;CONEYS, Mr. winston
+14;0;Leiden;male;39;2;5;46630;34691,25;;Rotterdam;MERCHEN, Mr. edsel
+15;0;Leiden;female;14;1;0;9555;31178,13;;Rotterdam;FINKENBINER, Miss. martha
+16;1;Utrecht;female;55;1;0;53870;32400;;Rotterdam;FREUDENTHAL, Mrs. lynde
+17;0;Leiden;male;2;5;1;90509;34368,75;;Utrecht;DALLAIRE, Master. munmro
+18;1;Utrecht;male;NA;1;0;55200;31950;;Rotterdam;RITARI, Mr. nils
+19;0;Leiden;female;31;2;0;10573;32700;;Rotterdam;REANEY, Mrs. merl
+20;1;Leiden;female;NA;1;0;80256;31083,75;;Amsterdam (the Edge);STAYNER, Mrs. rosalynd
+21;0;Utrecht;male;35;1;0;15812;33900;;Rotterdam;OGILVIE, Mr. myron
+22;1;Utrecht;male;34;1;0;12432;31950;D;Rotterdam;BIJOU, Mr. dun
+23;1;Leiden;female;15;1;0;89232;31204,38;;Utrecht;SPILMAN, Miss. editha
+24;1;Amsterdam;male;28;1;0;85366;35325;A;Rotterdam;MOHOROVICH, Mr. rutger
+25;0;Leiden;female;8;4;1;11117;33161,25;;Rotterdam;HOLTZLANDER, Miss. sorcha
+26;1;Leiden;female;38;2;5;51857;34708,125;;Rotterdam;OLSSON, Mrs. moreen
+27;0;Leiden;male;NA;1;0;65061;31083,75;;Amsterdam (the Edge);NICKLAW, Mr. earle
+28;0;Amsterdam;male;19;4;2;86689;69450;C;Rotterdam;PELTIER, Mr. pancho
+29;1;Leiden;female;NA;1;0;87521;31181,88;;Utrecht;BARRIGAN, Miss. tarah
+30;0;Leiden;male;NA;1;0;48096;31184,37;;Rotterdam;THEIL, Mr. court
+31;0;Amsterdam;male;40;1;0;57459;34158,12;;Amsterdam (the Edge);BUDDS, Don. avigdor
+32;1;Amsterdam;female;NA;2;0;15810;51978,12;B;Amsterdam (the Edge);MUNLIN, Mrs. zita
+33;1;Leiden;female;NA;1;0;58353;31162,5;;Utrecht;KRALING, Miss. caroljean
+34;0;Utrecht;male;66;1;0;53777;31575;;Rotterdam;WERDLOW, Mr. gonzales
+35;0;Amsterdam;male;28;2;0;65563;42325,62;;Amsterdam (the Edge);YELVINGTON, Mr. hazel
+36;0;Amsterdam;male;42;2;0;93545;37800;;Rotterdam;VINTINNER, Mr. levin
+37;1;Leiden;male;NA;1;0;65927;31084,38;;Amsterdam (the Edge);MELTON, Mr. matias
+38;0;Leiden;male;21;1;0;68648;31207,5;;Rotterdam;ROUSSELLE, Mr. lalo
+39;0;Leiden;female;18;3;0;50261;32700;;Rotterdam;REANEY, Miss. dolores
+40;1;Leiden;female;14;2;0;66526;31686,255;;Amsterdam (the Edge);DRUM, Miss. octavia
+41;0;Leiden;female;40;2;0;73368;31421,25;;Rotterdam;SIVIA, Mrs. lexie
+42;0;Utrecht;female;27;2;0;28197;33150;;Rotterdam;WORKS, Mrs. rosana
+43;0;Leiden;male;NA;1;0;93848;31184,37;;Amsterdam (the Edge);MIAS, Mr. alfy
+44;1;Utrecht;female;3;2;2;76412;36236,88;;Amsterdam (the Edge);HARGREAVES, Miss. gilemette
+45;1;Leiden;female;19;1;0;46636;31181,88;;Utrecht;FLEISCHMANN, Miss. theresina
+46;0;Leiden;male;NA;1;0;23936;31207,5;;Rotterdam;BOYDEN, Mr. eberto
+47;0;Leiden;male;NA;2;0;17757;32325;;Utrecht;WALCZYK, Mr. jasen
+48;1;Leiden;female;NA;1;0;80035;31162,5;;Utrecht;DALCOUR, Miss. demetris
+49;0;Leiden;male;NA;3;0;98741;33251,88;;Amsterdam (the Edge);ZETZER, Mr. ruggiero
+50;0;Leiden;female;18;2;0;95862;32670;;Rotterdam;VASSEUR, Mrs. rianon
+51;0;Leiden;male;7;5;1;27776;35953,125;;Rotterdam;RAPE, Master. skippy
+52;0;Leiden;male;21;1;0;82626;31170;;Rotterdam;FRUCHTER, Mr. les
+53;1;Amsterdam;female;49;2;0;68970;41509,38;D;Amsterdam (the Edge);DERGANCE, Mrs. adrianne
+54;1;Utrecht;female;29;2;0;70199;33900;;Rotterdam;GABRIELE, Mrs. kiah
+55;0;Amsterdam;male;65;1;1;78788;39296,88;B;Amsterdam (the Edge);ROBBEN, Mr. stephan
+56;1;Amsterdam;male;NA;1;0;50433;35325;C;Rotterdam;OPULA, Mr. sloan
+57;1;Utrecht;female;21;1;0;84829;31575;;Rotterdam;AREND, Miss. sharona
+58;0;Leiden;male;28,5;1;0;82803;31084,38;;Amsterdam (the Edge);DEMETRIOU, Mr. ignacius
+59;1;Utrecht;female;5;2;2;1666;34162,5;;Rotterdam;OLEN, Miss. philippe
+60;0;Leiden;male;11;6;2;72232;37035;;Rotterdam;TALLIS, Master. wiatt
+61;0;Leiden;male;22;1;0;63610;31084,38;;Amsterdam (the Edge);GORHAM, Mr. kinny
+62;1;Amsterdam;female;38;1;0;88090;42000;B;;HAMFF, Miss. tarra
+63;0;Amsterdam;male;45;2;0;78954;42521,25;C;Rotterdam;SCARLET, Mr. ruben
+64;0;Leiden;male;4;4;2;13566;34185;;Rotterdam;ANKERSEN, Master. gothart
+65;0;Amsterdam;male;NA;1;0;39995;34158,12;;Amsterdam (the Edge);GROTE, Mr. claudianus
+66;1;Leiden;male;NA;2;1;32384;32286,87;;Amsterdam (the Edge);STEINMAN, Master. cordy
+67;1;Utrecht;female;29;1;0;64471;31575;F;Rotterdam;CRAGUN, Mrs. elsi
+68;0;Leiden;male;19;1;0;16148;31223,745;;Rotterdam;UZUN, Mr. isa
+69;1;Leiden;female;17;5;2;48094;31188,75;;Rotterdam;MERCHEN, Miss. sonja
+70;0;Leiden;male;26;3;0;15832;31299,375;;Rotterdam;SIBLE, Mr. lemar
+71;0;Utrecht;male;32;1;0;21677;31575;;Rotterdam;ARISUMI, Mr. ethan
+72;0;Leiden;female;16;6;2;72232;37035;;Rotterdam;TALLIS, Miss. rubia
+73;0;Utrecht;male;21;1;0;63406;41025;;Rotterdam;MCGLAMERY, Mr. rosco
+74;0;Leiden;male;26;2;0;15655;32168,13;;Amsterdam (the Edge);PASSINI, Mr. waite
+75;1;Leiden;male;32;1;0;63768;38474,37;;Rotterdam;GUISE, Mr. earl
+76;0;Leiden;male;25;1;0;82198;31147,5;F;Rotterdam;CENA, Mr. rutger
+77;0;Leiden;male;NA;1;0;12028;31184,37;;Rotterdam;GARTHEE, Mr. land
+78;0;Leiden;male;NA;1;0;27732;31207,5;;Rotterdam;CURELLA, Mr. munroe
+79;1;Utrecht;male;0,83;1;2;75009;34350;;Rotterdam;ALMODOVAR, Master. gabbie
+80;1;Leiden;female;30;1;0;30217;31871,25;;Rotterdam;SEMBRAT, Miss. mary
+81;0;Leiden;male;22;1;0;3960;31350;;Rotterdam;DAVTYAN, Mr. guthrey
+82;1;Leiden;male;29;1;0;24599;31425;;Rotterdam;LEGALLEY, Mr. hale
+83;1;Leiden;female;NA;1;0;62693;31168,125;;Utrecht;CICCARELLI, Miss. nettle
+84;0;Amsterdam;male;28;1;0;57043;37065;;Rotterdam;FREYER, Mr. erl
+85;1;Utrecht;female;17;1;0;87959;31575;;Rotterdam;PFUHL, Miss. lizette
+86;1;Leiden;female;33;4;0;79233;32377,5;;Rotterdam;SHAMI, Mrs. lizabeth
+87;0;Leiden;male;16;2;3;91604;35156,25;;Rotterdam;BECH, Mr. merry
+88;0;Leiden;male;NA;1;0;15060;31207,5;;Rotterdam;ALLS, Mr. karim
+89;1;Amsterdam;female;23;4;2;86689;69450;C;Rotterdam;PELTIER, Miss. krystle
+90;0;Leiden;male;24;1;0;81849;31207,5;;Rotterdam;BOCCHI, Mr. gaultiero
+91;0;Leiden;male;29;1;0;48509;31207,5;;Rotterdam;KHANO, Mr. clement
+92;0;Leiden;male;20;1;0;96523;31178,13;;Rotterdam;RIPPLE, Mr. sloan
+93;0;Amsterdam;male;46;2;0;30715;39176,25;E;Rotterdam;LIPSZYC, Mr. judon
+94;0;Leiden;male;26;2;2;37819;33086,25;;Rotterdam;WEIDENBACH, Mr. carr
+95;0;Leiden;male;59;1;0;50006;31087,5;;Rotterdam;KANODE, Mr. even
+96;0;Leiden;male;NA;1;0;78562;31207,5;;Rotterdam;RABENSTEIN, Mr. aldwin
+97;0;Amsterdam;male;71;1;0;46903;35198,13;A;Amsterdam (the Edge);TRESCA, Mr. ulberto
+98;1;Amsterdam;male;23;1;1;98083;39503,745;D;Amsterdam (the Edge);RAJAPHOUMY, Mr. yale
+99;1;Utrecht;female;34;1;1;83732;33450;;Rotterdam;MCCLINTOCK, Mrs. edna
+100;0;Utrecht;male;34;2;0;17387;33900;;Rotterdam;LESIAK, Mr. norris
+101;0;Leiden;female;28;1;0;22211;31184,37;;Rotterdam;STARKWEATHER, Miss. remy
+102;0;Leiden;male;NA;1;0;43663;31184,37;;Rotterdam;WESTERGAARD, Mr. jesse
+103;0;Amsterdam;male;21;1;1;40072;41593,125;D;Rotterdam;BACHRACH, Mr. mitch
+104;0;Leiden;male;33;1;0;83368;31298,13;;Rotterdam;PORTIS, Mr. jerri
+105;0;Leiden;male;37;3;0;66309;31188,75;;Rotterdam;KLINETOB, Mr. thornton
+106;0;Leiden;male;28;1;0;37814;31184,37;;Rotterdam;SHRAKE, Mr. durward
+107;1;Leiden;female;21;1;0;91716;31147,5;;Rotterdam;SNEATH, Miss. elsi
+108;1;Leiden;male;NA;1;0;76475;31166,25;;Rotterdam;SPESSARD, Mr. boris
+109;0;Leiden;male;38;1;0;73328;31184,37;;Rotterdam;HELVERSON, Mr. pancho
+110;1;Leiden;female;NA;2;0;99664;33622,5;;Utrecht;TURCOTT, Miss. andeee
+111;0;Amsterdam;male;47;1;0;76427;37800;C;Rotterdam;KAZMER, Mr. shelley
+112;0;Leiden;female;14,5;2;0;89674;32168,13;;Amsterdam (the Edge);COATE, Miss. irene
+113;0;Leiden;male;22;1;0;3947;31207,5;;Rotterdam;BYUN, Mr. marius
+114;0;Leiden;female;20;2;0;37130;31473,75;;Rotterdam;DIONISIO, Miss. kellsie
+115;0;Leiden;female;17;1;0;44004;32168,745;;Amsterdam (the Edge);MARSALA, Miss. janessa
+116;0;Leiden;male;21;1;0;94402;31188,75;;Rotterdam;TART, Mr. sax
+117;0;Leiden;male;70,5;1;0;47327;31162,5;;Utrecht;ZODA, Mr. algernon
+118;0;Utrecht;male;29;2;0;28197;33150;;Rotterdam;WORKS, Mr. frannie
+119;0;Amsterdam;male;24;1;1;12566;67128,12;B;Amsterdam (the Edge);REILL, Mr. pepillo
+120;0;Leiden;female;2;5;2;46630;34691,25;;Rotterdam;MERCHEN, Miss. elisa
+121;0;Utrecht;male;21;3;0;63406;41025;;Rotterdam;SCHNEEKLOTH, Mr. jesse
+122;0;Leiden;male;NA;1;0;37604;31207,5;;Rotterdam;CRESCENTI, Mr. arnoldo
+123;0;Utrecht;male;32,5;2;0;69316;34510,62;;Amsterdam (the Edge);GNAGEY, Mr. bronnie
+124;1;Utrecht;female;32,5;1;0;50821;31950;E;Rotterdam;FRANKO, Miss. bill
+125;0;Amsterdam;male;54;1;1;40072;41593,125;D;Rotterdam;BACHRACH, Mr. chase
+126;1;Leiden;male;12;2;0;66526;31686,255;;Amsterdam (the Edge);DRUM, Master. sigismund
+127;0;Leiden;male;NA;1;0;60241;31162,5;;Utrecht;KALTER, Mr. xerxes
+128;1;Leiden;male;24;1;0;40085;31071,255;;Rotterdam;NETZEL, Mr. floyd
+129;1;Leiden;female;NA;2;1;81843;33353,745;F;Amsterdam (the Edge);RIGGLES, Miss. millie
+130;0;Leiden;male;45;1;0;14778;31046,25;;Rotterdam;JONGEBLOED, Mr. elia
+131;0;Leiden;male;33;1;0;14563;31184,37;;Amsterdam (the Edge);MUSACCHIO, Mr. eugenius
+132;0;Leiden;male;20;1;0;53823;31057,5;;Rotterdam;DELOSANGELES, Mr. peter
+133;0;Leiden;female;47;2;0;7592;32175;;Rotterdam;SERRO, Mrs. meridith
+134;1;Utrecht;female;29;2;0;1496;33900;;Rotterdam;REMSON, Mrs. julia
+135;0;Utrecht;male;25;1;0;81872;31950;;Rotterdam;LANIE, Mr. ashley
+136;0;Utrecht;male;23;1;0;77741;32256,87;;Amsterdam (the Edge);PITRE, Mr. wyatan
+137;1;Amsterdam;female;19;1;2;79967;33942,495;D;Rotterdam;POLTORAK, Miss. kayla
+138;0;Amsterdam;male;37;2;0;43238;37965;C;Rotterdam;RIVA, Mr. eli
+139;0;Leiden;male;16;1;0;90030;31382,505;;Rotterdam;GAVETT, Mr. christie
+140;0;Amsterdam;male;24;1;0;33531;41880;B;Amsterdam (the Edge);UTSEY, Mr. gauthier
+141;0;Leiden;female;NA;1;2;62757;32286,87;;Amsterdam (the Edge);ROHS, Mrs. karin
+142;1;Leiden;female;22;1;0;929;31162,5;;Rotterdam;HERRIAGE, Miss. rosamond
+143;1;Leiden;female;24;2;0;41572;32377,5;;Rotterdam;HIPPE, Mrs. korney
+144;0;Leiden;male;19;1;0;48227;31012,5;;Utrecht;OTO, Mr. vince
+145;0;Utrecht;male;18;1;0;63573;31725;;Rotterdam;MUPHY, Mr. thorvald
+146;0;Utrecht;male;19;2;1;91496;35512,5;;Rotterdam;REIFSNIDER, Mr. poul
+147;1;Leiden;male;27;1;0;35125;31169,37;;Rotterdam;MERCHEN, Mr. brucie
+148;0;Leiden;female;9;3;2;91604;35156,25;;Rotterdam;BECH, Miss. genny
+149;0;Utrecht;male;36,5;1;2;98122;33900;F;Rotterdam;DONAHOE, Mr. lesley
+150;0;Utrecht;male;42;1;0;84810;31950;;Rotterdam;KNUTT, Rev. pepillo
+151;0;Utrecht;male;51;1;0;62813;31878,75;;Rotterdam;IRENE, Rev. chance
+152;1;Amsterdam;female;22;2;0;97408;39990;C;Rotterdam;HOWLES, Mrs. celestyn
+153;0;Leiden;male;55,5;1;0;19027;31207,5;;Rotterdam;SWAYZE, Mr. jasen
+154;0;Leiden;male;40,5;1;2;7915;32175;;Rotterdam;LASO, Mr. pippo
+155;0;Leiden;male;NA;1;0;98969;31096,875;;Rotterdam;FILLERUP, Mr. malchy
+156;0;Amsterdam;male;51;1;1;7044;39206,88;;Amsterdam (the Edge);RITARI, Mr. thatch
+157;1;Leiden;female;16;1;0;72869;31159,995;;Utrecht;NAHRWOLD, Miss. nettie
+158;0;Leiden;male;30;1;0;24653;31207,5;;Rotterdam;NASSIMI, Mr. mord
+159;0;Leiden;male;NA;1;0;41060;31299,375;;Rotterdam;GUILFOYLE, Mr. irvin
+160;0;Leiden;male;NA;9;2;28570;40432,5;;Rotterdam;CIRAOLO, Master. eliot
+161;0;Leiden;male;44;1;1;58826;32415;;Rotterdam;VEVERKA, Mr. kermie
+162;1;Utrecht;female;40;1;0;23037;32362,5;;Rotterdam;LOHRKE, Mrs. ilise
+163;0;Leiden;male;26;1;0;75065;31166,25;;Rotterdam;KAUFFMANN, Mr. mohandas
+164;0;Leiden;male;17;1;0;6061;31299,375;;Rotterdam;RAETHKE, Mr. willey
+165;0;Leiden;male;1;5;1;27776;35953,125;;Rotterdam;RAPE, Master. bink
+166;1;Leiden;male;9;1;2;94254;33078,75;;Rotterdam;MOFFAT, Master. rutger
+167;1;Amsterdam;female;NA;1;1;22438;38250;E;Rotterdam;SERENIL, Mrs. elsi
+168;0;Leiden;female;45;2;4;13566;34185;;Rotterdam;ANKERSEN, Mrs. lisha
+169;0;Amsterdam;male;NA;1;0;89694;33888,75;;Rotterdam;LOQUE, Mr. hurleigh
+170;0;Leiden;male;28;1;0;63768;38474,37;;Rotterdam;CASTEN, Mr. lamar
+171;0;Amsterdam;male;61;1;0;17677;35025;B;Rotterdam;STEINIGER, Mr. nap
+172;0;Leiden;male;4;5;1;90509;34368,75;;Utrecht;DALLAIRE, Master. gualterio
+173;1;Leiden;female;1;2;1;74653;31669,995;;Rotterdam;TAPPEINER, Miss. farah
+174;0;Leiden;male;21;1;0;7048;31188,75;;Rotterdam;CHARETTE, Mr. walt
+175;0;Amsterdam;male;56;1;0;50131;34604,37;A;Amsterdam (the Edge);HONYUMPTEWA, Mr. cullen
+176;0;Leiden;male;18;2;1;94253;31178,13;;Rotterdam;BUHMAN, Mr. jehu
+177;0;Leiden;male;NA;4;1;94139;33820,005;;Rotterdam;MONTIE, Master. brnaba
+178;0;Amsterdam;female;50;1;0;19732;34306,875;C;Amsterdam (the Edge);LONGHI, Miss. agace
+179;0;Utrecht;male;30;1;0;66504;31950;;Rotterdam;BLACKSHIRE, Mr. holmes
+180;0;Leiden;male;36;1;0;89684;30000;;Rotterdam;PLATENBURG, Mr. aldwin
+181;0;Leiden;female;NA;9;2;28570;40432,5;;Rotterdam;CIRAOLO, Miss. andie
+182;0;Utrecht;male;NA;1;0;78790;32257,5;;Amsterdam (the Edge);BINSTOCK, Mr. kimble
+183;0;Leiden;male;9;5;2;51857;34708,125;;Rotterdam;OLSSON, Master. reinaldo
+184;1;Utrecht;male;1;3;1;48097;35850;F;Rotterdam;WADHAMS, Master. munroe
+185;1;Leiden;female;4;1;2;97620;33303,75;;Rotterdam;BUNKERS, Miss. christan
+186;0;Amsterdam;male;NA;1;0;60034;37500;A;Rotterdam;PETTAWAY, Mr. hartley
+187;1;Leiden;female;NA;2;0;96320;32325;;Utrecht;PAULI, Mrs. mahalia
+188;1;Amsterdam;male;45;1;0;42229;33982,5;;Rotterdam;ABOUDI, Mr. jorgan
+189;0;Leiden;male;40;2;1;36790;32325;;Utrecht;SIPRASOEUTH, Mr. meier
+190;0;Leiden;male;36;1;0;86319;31184,37;;Rotterdam;ROLFSON, Mr. carr
+191;1;Utrecht;female;32;1;0;25895;31950;;Rotterdam;HOLTERMAN, Mrs. beverly
+192;0;Utrecht;male;19;1;0;84020;31950;;Rotterdam;TARBERT, Mr. davey
+193;1;Leiden;female;19;2;0;99241;31178,13;;Rotterdam;GAUNTT, Miss. hollie
+194;1;Utrecht;male;3;2;1;98122;33900;F;Rotterdam;DONAHOE, Master. gav
+195;1;Amsterdam;female;44;1;0;57202;34158,12;B;Amsterdam (the Edge);DUTTER, Mrs. alena
+196;1;Amsterdam;female;58;1;0;15810;51978,12;B;Amsterdam (the Edge);PERRA, Miss. bennie
+197;0;Leiden;male;NA;1;0;82372;31162,5;;Utrecht;RITSCHARD, Mr. griffith
+198;0;Leiden;male;42;1;1;73173;31260,63;;Rotterdam;FILLERUP, Mr. craggy
+199;1;Leiden;female;NA;1;0;40630;31162,5;;Utrecht;IMONDI, Miss. sadella
+200;0;Utrecht;female;24;1;0;67592;31950;;Rotterdam;SLIGHT, Miss. eleonora
+201;0;Leiden;male;28;1;0;71518;31425;;Rotterdam;PELINI, Mr. munroe
+202;0;Leiden;male;NA;9;2;28570;40432,5;;Rotterdam;CIRAOLO, Mr. alasteir
+203;0;Leiden;male;34;1;0;92788;30974,37;;Rotterdam;WARRENDER, Mr. haley
+204;0;Leiden;male;45,5;1;0;78380;31083,75;;Amsterdam (the Edge);LOECKEN, Mr. edgard
+205;1;Leiden;male;18;1;0;29066;31207,5;;Rotterdam;HALSELL, Mr. mitchel
+206;0;Leiden;female;2;1;1;45847;31569,375;G;Rotterdam;GARCES, Miss. kandace
+207;0;Leiden;male;32;2;0;79233;32377,5;;Rotterdam;SHAMI, Mr. hamish
+208;1;Leiden;male;26;1;0;14571;32818,125;;Amsterdam (the Edge);JUDKINS, Mr. sinclare
+209;1;Leiden;female;16;1;0;91593;31162,5;;Utrecht;MCIWRAITH, Miss. kellen
+210;1;Amsterdam;male;40;1;0;13170;34650;A;Amsterdam (the Edge);MOHR, Mr. vince
+211;0;Leiden;male;24;1;0;14349;31057,5;;Rotterdam;STOEGER, Mr. nolly
+212;1;Utrecht;female;35;1;0;51503;33150;;Rotterdam;FUNE, Miss. philippe
+213;0;Leiden;male;22;1;0;66664;31087,5;;Rotterdam;FASCHING, Mr. geordie
+214;0;Utrecht;male;30;1;0;16056;31950;;Rotterdam;COUSINO, Mr. mar
+215;0;Leiden;male;NA;2;0;49265;31162,5;;Utrecht;CHENEVEY, Mr. lydon
+216;1;Amsterdam;female;31;2;0;4213;46991,25;D;Amsterdam (the Edge);KURDZIEL, Miss. gwen
+217;1;Leiden;female;27;1;0;57694;31188,75;;Rotterdam;KINGCADE, Miss. bride
+218;0;Utrecht;male;42;2;0;48765;34050;;Rotterdam;CHAD, Mr. gregor
+219;1;Amsterdam;female;32;1;0;57329;41443,755;D;Amsterdam (the Edge);KNOFF, Miss. alessandra
+220;0;Utrecht;male;30;1;0;84158;31575;;Rotterdam;SCARLET, Mr. nikolaos
+221;1;Leiden;male;16;1;0;62460;31207,5;;Rotterdam;HONOHAN, Mr. stanfield
+222;0;Utrecht;male;27;1;0;18204;31950;;Rotterdam;DUSABLON, Mr. osborne
+223;0;Leiden;male;51;1;0;37367;31207,5;;Rotterdam;GLEITZ, Mr. sloan
+224;0;Leiden;male;NA;1;0;96846;31184,37;;Rotterdam;ZIEGO, Mr. lydon
+225;1;Amsterdam;male;38;2;0;93708;43500;C;Rotterdam;BUX, Mr. godart
+226;0;Leiden;male;22;1;0;63268;31402,5;;Rotterdam;CARMOUCHE, Mr. ellerey
+227;1;Utrecht;male;19;1;0;51651;31575;;Rotterdam;NAVRATIL, Mr. patric
+228;0;Leiden;male;20,5;1;0;17130;31087,5;;Rotterdam;HOHAIA, Mr. rinaldo
+229;0;Utrecht;male;18;1;0;27899;31950;;Rotterdam;TENZER, Mr. denys
+230;0;Leiden;female;NA;4;1;94139;33820,005;;Rotterdam;MONTIE, Miss. yvette
+231;1;Amsterdam;female;35;2;0;78954;42521,25;C;Rotterdam;SCARLET, Mrs. andriette
+232;0;Leiden;male;29;1;0;98463;31166,25;;Rotterdam;ROHLING, Mr. godart
+233;0;Utrecht;male;59;1;0;87003;32025;;Rotterdam;AIPORLANI, Mr. hewie
+234;1;Leiden;female;5;5;2;51857;34708,125;;Rotterdam;OLSSON, Miss. zilvia
+235;0;Utrecht;male;24;1;0;50079;31575;;Rotterdam;MANCHE, Mr. mordy
+236;0;Leiden;female;NA;1;0;51832;31132,5;;Rotterdam;MONTPETIT, Miss. nadya
+237;0;Utrecht;male;44;2;0;78595;33900;;Rotterdam;PEOPLE, Mr. pancho
+238;1;Utrecht;female;8;1;2;80341;33937,5;;Rotterdam;MOISE, Miss. sorcha
+239;0;Utrecht;male;19;1;0;38907;31575;;Rotterdam;HEDON, Mr. alair
+240;0;Utrecht;male;33;1;0;20024;31841,25;;Rotterdam;PEERZADA, Mr. erastus
+241;0;Leiden;female;NA;2;0;89674;32168,13;;Amsterdam (the Edge);COATE, Miss. eada
+242;1;Leiden;female;NA;2;0;25120;32325;;Utrecht;GIANNINI, Miss. mireielle
+243;0;Utrecht;male;29;1;0;93481;31575;;Rotterdam;BELIEU, Mr. ravi
+244;0;Leiden;male;22;1;0;39196;31068,75;;Rotterdam;MENDER, Mr. jorgan
+245;0;Leiden;male;30;1;0;50997;31083,75;;Amsterdam (the Edge);MARSALA, Mr. hilliard
+246;0;Amsterdam;male;44;3;0;45529;43500;C;Utrecht;HIDAKA, Dr. lalo
+247;0;Leiden;female;25;1;0;91214;31166,25;;Rotterdam;NARO, Miss. susanne
+248;1;Utrecht;female;24;1;2;29840;32175;;Rotterdam;SCARINGE, Mrs. rickie
+249;1;Amsterdam;male;37;2;1;71703;37883,13;D;Rotterdam;SCOLLARD, Mr. sascha
+250;0;Utrecht;male;54;2;0;54626;33900;;Rotterdam;LAFRANCOIS, Rev. rolf
+251;0;Leiden;male;NA;1;0;89610;31087,5;;Rotterdam;CANDEE, Mr. sargent
+252;0;Leiden;female;29;2;1;45847;31569,375;G;Rotterdam;GARCES, Mrs. dorene
+253;0;Amsterdam;male;62;1;0;45292;33982,5;C;Rotterdam;NOBLE, Mr. isa
+254;0;Leiden;male;30;2;0;66268;32415;;Rotterdam;VANDERBERG, Mr. andras
+255;0;Leiden;female;41;1;2;59052;33031,875;;Rotterdam;ZELLA, Mrs. sharron
+256;1;Leiden;female;29;1;2;60986;32286,87;;Amsterdam (the Edge);BALO, Mrs. lavena
+257;1;Amsterdam;female;NA;1;0;45507;41880;;Amsterdam (the Edge);CONKEY, Mrs. wilmette
+258;1;Amsterdam;female;30;1;0;27586;42975;B;Rotterdam;KNAPPENBERGER, Miss. willamina
+259;1;Amsterdam;female;35;1;0;50663;106849,38;;Amsterdam (the Edge);LIBERT, Miss. donnie
+260;1;Utrecht;female;50;1;1;59266;33900;;Rotterdam;BORGMANN, Mrs. darlene
+261;0;Leiden;male;NA;1;0;28416;31162,5;;Utrecht;HONYUMPTEWA, Mr. sheffy
+262;1;Leiden;male;3;5;2;51857;34708,125;;Rotterdam;OLSSON, Master. boris
+263;0;Amsterdam;male;52;2;1;79963;41947,5;E;Rotterdam;SEIDMAN, Mr. dickie
+264;0;Amsterdam;male;40;1;0;38110;30000;B;Rotterdam;GALBREATH, Mr. alasteir
+265;0;Leiden;female;NA;1;0;61780;31162,5;;Utrecht;CANDLISH, Miss. janelle
+266;0;Utrecht;male;36;1;0;61175;31575;;Rotterdam;MENSINGER, Mr. jaimie
+267;0;Leiden;male;16;5;1;27776;35953,125;;Rotterdam;RAPE, Mr. kippar
+268;1;Leiden;male;25;2;0;36947;31166,25;;Rotterdam;MAROIS, Mr. david
+269;1;Amsterdam;female;58;1;1;53766;53019,375;C;Rotterdam;MENDICINO, Mrs. andrea
+270;1;Amsterdam;female;35;1;0;3232;50344,995;C;Rotterdam;RAMSEYER, Miss. lianne
+271;0;Amsterdam;male;NA;1;0;40662;34650;;Rotterdam;MALBAURN, Mr. land
+272;1;Leiden;male;25;1;0;89684;30000;;Rotterdam;GETTYS, Mr. gabriele
+273;1;Utrecht;female;41;1;1;56781;32925;;Rotterdam;RASUAL, Mrs. alyson
+274;0;Amsterdam;male;37;1;1;72122;34455;C;Amsterdam (the Edge);TABOLT, Mr. wiatt
+275;1;Leiden;female;NA;1;0;13939;31162,5;;Utrecht;ALDROW, Miss. elysee
+276;1;Amsterdam;female;63;2;0;59716;41693,745;D;Rotterdam;MINACCI, Miss. carmel
+277;0;Leiden;female;45;1;0;82279;31162,5;;Rotterdam;OBENSHAIN, Miss. demetris
+278;0;Utrecht;male;NA;1;0;61449;30000;;Rotterdam;CASSELLA, Mr. timothy
+279;0;Leiden;male;7;5;1;90509;34368,75;;Utrecht;DALLAIRE, Master. gabie
+280;1;Leiden;female;35;2;1;91939;33037,5;;Rotterdam;MAISEL, Mrs. bonnee
+281;0;Leiden;male;65;1;0;59370;31162,5;;Utrecht;FREEBURG, Mr. hieronymus
+282;0;Leiden;male;28;1;0;26608;31178,13;;Rotterdam;NAHRSTEDT, Mr. thornton
+283;0;Leiden;male;16;1;0;7281;31425;;Rotterdam;GREENLEY, Mr. pippo
+284;1;Leiden;male;19;1;0;32961;31207,5;;Rotterdam;CENTINI, Mr. jamesy
+285;0;Amsterdam;male;NA;1;0;36062;33900;A;Rotterdam;HONYUMPTEWA, Mr. newton
+286;0;Leiden;male;33;1;0;38320;31299,375;;Amsterdam (the Edge);PATRIDGE, Mr. cale
+287;1;Leiden;male;30;1;0;86093;31425;;Rotterdam;MOSIMANN, Mr. sauncho
+288;0;Leiden;male;22;1;0;17362;31184,37;;Rotterdam;ANTONAKOS, Mr. rodger
+289;1;Utrecht;male;42;1;0;1172;31950;;Rotterdam;ENZ, Mr. leon
+290;1;Leiden;female;22;1;0;49419;31162,5;;Utrecht;GARD, Miss. marigold
+291;1;Amsterdam;female;26;1;0;3653;41827,5;;Rotterdam;PLAUT, Miss. deb
+292;1;Amsterdam;female;19;2;0;90561;43661,88;B;Amsterdam (the Edge);MAYCUMBER, Mrs. charlene
+293;0;Utrecht;male;36;1;0;42093;31931,25;D;Amsterdam (the Edge);CANTRALL, Mr. ferrel
+294;0;Leiden;female;24;1;0;62768;31327,5;;Rotterdam;NATER, Miss. dniren
+295;0;Leiden;male;24;1;0;22293;31184,37;;Rotterdam;IANUZZI, Mr. haily
+296;0;Amsterdam;male;NA;1;0;86401;34158,12;;Amsterdam (the Edge);DOLCETTO, Mr. david
+297;0;Leiden;male;23,5;1;0;50717;31084,38;;Amsterdam (the Edge);LOEB, Mr. louis
+298;0;Amsterdam;female;2;2;2;74562;52732,5;C;Rotterdam;SPEARES, Miss. shirlene
+299;1;Amsterdam;male;NA;1;0;89997;34575;C;Rotterdam;NOWAK, Mr. derward
+300;1;Amsterdam;female;50;1;1;12566;67128,12;B;Amsterdam (the Edge);REILL, Mrs. junette
+301;1;Leiden;female;NA;1;0;21197;31162,5;;Utrecht;GARRON, Miss. rowena
+302;1;Leiden;male;NA;3;0;8347;33487,5;;Utrecht;VERDEJO, Mr. cyrille
+303;0;Leiden;male;19;1;0;89684;30000;;Rotterdam;TAPPEINER, Mr. gibby
+304;1;Utrecht;female;NA;1;0;63894;31852,5;E;Utrecht;LELE, Miss. meade
+305;0;Leiden;male;NA;1;0;88151;31207,5;;Rotterdam;RITARI, Mr. rinaldo
+306;1;Amsterdam;male;0,92;2;2;74562;52732,5;C;Rotterdam;SPEARES, Master. frasquito
+307;1;Amsterdam;female;NA;1;0;62754;46632,495;;Amsterdam (the Edge);FECHTIG, Miss. alie
+308;1;Amsterdam;female;17;2;0;95404;46335;C;Amsterdam (the Edge);RIGHTMYER, Mrs. yolane
+309;0;Utrecht;male;30;2;0;76297;33600;;Amsterdam (the Edge);KITTEN, Mr. stacy
+310;1;Amsterdam;female;30;1;0;37461;38539,38;E;Amsterdam (the Edge);CRISTALES, Miss. candi
+311;1;Amsterdam;female;24;1;0;99080;42473,745;C;Amsterdam (the Edge);VITTI, Miss. theda
+312;1;Amsterdam;female;18;3;2;49046;69356,25;B;Amsterdam (the Edge);THEOS, Miss. meggy
+313;0;Utrecht;female;26;2;1;12225;33900;;Rotterdam;CONSALVO, Mrs. meade
+314;0;Leiden;male;28;1;0;73868;31184,37;;Rotterdam;BAUTZ, Mr. sarge
+315;0;Utrecht;male;43;2;1;82055;33937,5;;Rotterdam;DIETTERICK, Mr. bond
+316;1;Leiden;female;26;1;0;10040;31178,13;;Rotterdam;GALEANA, Miss. babbie
+317;1;Utrecht;female;24;2;0;17387;33900;;Rotterdam;LESIAK, Mrs. josephina
+318;0;Utrecht;male;54;1;0;57288;32100;;Rotterdam;ALPAUGH, Dr. chancey
+319;1;Amsterdam;female;31;1;2;71509;54730,005;C;Rotterdam;THIEL, Miss. virginie
+320;1;Amsterdam;female;40;2;1;20773;50175;E;Amsterdam (the Edge);MARLOWE, Mrs. elisabeth
+321;0;Leiden;male;22;1;0;66286;31087,5;;Rotterdam;HAYA, Mr. jehu
+322;0;Leiden;male;27;1;0;14214;31184,37;;Rotterdam;MILTZ, Mr. otho
+323;1;Utrecht;female;30;1;0;55682;31852,5;;Utrecht;VIJAYAN, Miss. rosanne
+324;1;Utrecht;female;22;2;1;75009;34350;;Rotterdam;ALMODOVAR, Mrs. dita
+325;0;Leiden;male;NA;9;2;28570;40432,5;;Rotterdam;CIRAOLO, Mr. fredric
+326;1;Amsterdam;female;36;1;0;3232;50344,995;C;Amsterdam (the Edge);ALCOCER, Miss. julissa
+327;0;Leiden;male;61;1;0;26648;30935,625;;Rotterdam;WROBLISKI, Mr. had
+328;1;Utrecht;female;36;1;0;71326;31950;D;Rotterdam;BOATMAN, Mrs. kelila
+329;1;Leiden;female;31;2;1;94254;33078,75;;Rotterdam;MOFFAT, Mrs. polly
+330;1;Amsterdam;female;16;1;1;60564;38696,88;B;Amsterdam (the Edge);HALPHEN, Miss. alfreda
+331;1;Leiden;female;NA;3;0;8347;33487,5;;Utrecht;VERDEJO, Miss. alie
+332;0;Amsterdam;male;45,5;1;0;15217;34275;C;Rotterdam;HARDS, Mr. hamish
+333;0;Amsterdam;male;38;1;1;53766;53019,375;C;Rotterdam;MENDICINO, Mr. sigfried
+334;0;Leiden;male;16;3;0;50261;32700;;Rotterdam;REANEY, Mr. flin
+335;1;Amsterdam;female;NA;2;0;752;50047,5;;Rotterdam;ABKEMEIER, Mrs. ulrika
+336;0;Leiden;male;NA;1;0;91025;31184,37;;Rotterdam;STENBECK, Mr. justen
+337;0;Amsterdam;male;29;2;0;97408;39990;C;Rotterdam;HOWLES, Mr. finlay
+338;1;Amsterdam;female;41;1;0;20773;50175;E;Amsterdam (the Edge);DUFRAIN, Miss. randene
+339;1;Leiden;male;45;1;0;59892;31207,5;;Rotterdam;BRODSHO, Mr. padraic
+340;0;Amsterdam;male;45;1;0;15024;35325;T;Rotterdam;COSCIA, Mr. weber
+341;1;Utrecht;male;2;2;1;98122;33900;F;Rotterdam;DONAHOE, Master. durward
+342;1;Amsterdam;female;24;4;2;86689;69450;C;Rotterdam;PELTIER, Miss. deanna
+343;0;Utrecht;male;28;1;0;4756;31950;;Rotterdam;NAKAMA, Mr. buckie
+344;0;Utrecht;male;25;1;0;32213;31950;;Rotterdam;NEIKIRK, Mr. barton
+345;0;Utrecht;male;36;1;0;67911;31950;;Rotterdam;TANGARI, Mr. lazar
+346;1;Utrecht;female;24;1;0;44929;31950;F;Rotterdam;DUTTER, Miss. ivie
+347;1;Utrecht;female;40;1;0;8950;31950;;Rotterdam;HONYUMPTEWA, Miss. adriena
+348;1;Leiden;female;NA;2;0;54958;32415;;Rotterdam;HEDMAN, Mrs. belicia
+349;1;Leiden;male;3;2;1;29552;32385;;Rotterdam;HATKE, Master. jorgan
+350;0;Leiden;male;42;1;0;24160;31299,375;;Rotterdam;MONCRIEF, Mr. robin
+351;0;Leiden;male;23;1;0;32089;31383,75;;Rotterdam;FINKELMAN, Mr. vinson
+352;0;Amsterdam;male;NA;1;0;63685;35250;C;Rotterdam;LOEWE, Mr. rosco
+353;0;Leiden;male;15;2;1;58992;31084,38;;Amsterdam (the Edge);COVITZ, Mr. giraud
+354;0;Leiden;male;25;2;0;95862;32670;;Rotterdam;VASSEUR, Mr. thorvald
+355;0;Leiden;male;NA;1;0;24869;31083,75;;Amsterdam (the Edge);FULKERSON, Mr. mayne
+356;0;Leiden;male;28;1;0;73488;31425;;Rotterdam;PARENTS, Mr. zacherie
+357;1;Amsterdam;female;22;1;1;22438;38250;E;Rotterdam;WUESTENBERG, Miss. quintana
+358;0;Utrecht;female;38;1;0;23106;31950;;Rotterdam;STANISZEWSKI, Miss. shena
+359;1;Leiden;female;NA;1;0;42407;31181,88;;Utrecht;MACNEIL, Miss. lanette
+360;1;Leiden;female;NA;1;0;66569;31181,88;;Utrecht;THAGGARD, Miss. gnni
+361;0;Leiden;male;40;2;4;13566;34185;;Rotterdam;ANKERSEN, Mr. mord
+362;0;Utrecht;male;29;2;0;97592;34158,12;;Amsterdam (the Edge);LANGO, Mr. benjy
+363;0;Leiden;female;45;1;1;30034;32168,13;;Amsterdam (the Edge);POWE, Mrs. revkah
+364;0;Leiden;male;35;1;0;17570;31057,5;;Rotterdam;ARN, Mr. hansiain
+365;0;Leiden;male;NA;2;0;96320;32325;;Utrecht;PAULI, Mr. nikolaos
+366;0;Leiden;male;30;1;0;53656;31087,5;;Rotterdam;DOWDY, Mr. rem
+367;1;Amsterdam;female;60;2;0;30945;41287,5;D;Amsterdam (the Edge);BOILEAU, Mrs. gavra
+368;1;Leiden;female;NA;1;0;57534;31084,38;;Amsterdam (the Edge);MORVAY, Mrs. blair
+369;1;Leiden;female;NA;1;0;10275;31162,5;;Utrecht;WARZECHA, Miss. mireielle
+370;1;Amsterdam;female;24;1;0;15121;40395;B;Amsterdam (the Edge);FUSILLO, Mme. valeda
+371;1;Amsterdam;male;25;2;0;84939;38316,255;E;Amsterdam (the Edge);SYAL, Mr. avigdor
+372;0;Leiden;male;18;2;0;71918;30974,37;;Rotterdam;POLL, Mr. ansell
+373;0;Leiden;male;19;1;0;52951;31207,5;;Rotterdam;TEPLICA, Mr. luigi
+374;0;Amsterdam;male;22;1;0;3232;50344,995;;Amsterdam (the Edge);BOSSEN, Mr. arvy
+375;0;Leiden;female;3;4;1;11117;33161,25;;Rotterdam;HOLTZLANDER, Miss. carol-jean
+376;1;Amsterdam;female;NA;2;0;65563;42325,62;;Amsterdam (the Edge);YELVINGTON, Mrs. tani
+377;1;Leiden;female;22;1;0;82342;31087,5;;Rotterdam;MROTZ, Miss. nertie
+378;0;Amsterdam;male;27;1;2;56814;61725;C;Amsterdam (the Edge);FLESHNER, Mr. martin
+379;0;Leiden;male;20;1;0;53556;30601,875;;Amsterdam (the Edge);BELJAN, Mr. vincent
+380;0;Leiden;male;19;1;0;61852;31166,25;;Rotterdam;KLINETOB, Mr. hasty
+381;1;Amsterdam;female;42;1;0;48868;64128,75;;Amsterdam (the Edge);TOLEN, Miss. mahalia
+382;1;Leiden;female;1;1;2;21392;32361,255;;Amsterdam (the Edge);CHRUSCIEL, Miss. bernelle
+383;0;Leiden;male;32;1;0;3408;31188,75;;Rotterdam;ESCHENBACHER, Mr. bradan
+384;1;Amsterdam;female;35;2;0;93545;37800;;Rotterdam;VINTINNER, Mrs. addy
+385;0;Leiden;male;NA;1;0;53651;31184,37;;Rotterdam;LEGGINS, Mr. rodolphe
+386;0;Utrecht;male;18;1;0;63406;41025;;Rotterdam;HREHA, Mr. ollie
+387;0;Leiden;male;1;6;2;72232;37035;;Rotterdam;TALLIS, Master. price
+388;1;Utrecht;female;36;1;0;26906;31950;;Rotterdam;REIMOLD, Miss. veronique
+389;0;Leiden;male;NA;1;0;8754;31159,38;;Utrecht;FILLIP, Mr. jeffry
+390;1;Utrecht;female;17;1;0;99105;31800;;Amsterdam (the Edge);SCHRECKER, Miss. dotty
+391;1;Amsterdam;male;36;2;2;89954;48000;B;Rotterdam;LAFRANCOIS, Mr. jeramey
+392;1;Leiden;male;21;1;0;70642;31169,37;;Rotterdam;BOURBOIS, Mr. cris
+393;0;Leiden;male;28;3;0;17937;31188,75;;Rotterdam;KLINETOB, Mr. ivor
+394;1;Amsterdam;female;23;2;0;4213;46991,25;D;Amsterdam (the Edge);KURDZIEL, Miss. ingaberg
+395;1;Leiden;female;24;1;2;57263;32505;G;Rotterdam;HUNDERLACH, Mrs. elisabeth
+396;0;Leiden;male;22;1;0;47545;31169,37;;Rotterdam;PORTIS, Mr. cross
+397;0;Leiden;female;31;1;0;52962;31178,13;;Rotterdam;NAHRSTEDT, Miss. ilise
+398;0;Utrecht;male;46;1;0;93479;33900;;Rotterdam;PAREJA, Mr. hamlin
+399;0;Utrecht;male;23;1;0;20327;31575;;Rotterdam;FOTOPOULOS, Dr. delaney
+400;1;Utrecht;female;28;1;0;78490;31897,5;;Rotterdam;GARDUNO, Mrs. andie
+401;1;Leiden;male;39;1;0;18420;31188,75;;Rotterdam;BUEHRLE, Mr. brice
+402;0;Leiden;male;26;1;0;92188;31207,5;;Rotterdam;GULLEY, Mr. callean
+403;0;Leiden;female;21;2;0;99383;31473,75;;Rotterdam;DIONISIO, Miss. celle
+404;0;Leiden;male;28;2;0;41572;32377,5;;Rotterdam;HIPPE, Mr. even
+405;0;Leiden;female;20;1;0;85100;31299,375;;Rotterdam;ASIEDU, Miss. sandi
+406;0;Utrecht;male;34;2;0;67251;33150;;Rotterdam;EMO, Mr. land
+407;0;Leiden;male;51;1;0;90920;31162,5;;Rotterdam;TAMMEN, Mr. irvin
+408;1;Utrecht;male;3;2;1;8585;32812,5;;Rotterdam;CASELDEN, Master. erie
+409;0;Leiden;male;21;1;0;44551;31166,25;;Rotterdam;CAVENEY, Mr. romain
+410;0;Leiden;female;NA;4;1;94139;33820,005;;Rotterdam;MONTIE, Miss. emmalynn
+411;0;Leiden;male;NA;1;0;18973;31184,37;;Rotterdam;TOKKESDAL, Mr. hurleigh
+412;0;Leiden;male;NA;1;0;10833;31028,745;;Utrecht;DIETTERICK, Mr. loydie
+413;1;Amsterdam;female;33;2;0;45529;43500;C;Utrecht;HIDAKA, Miss. geri
+414;0;Utrecht;male;NA;1;0;61449;30000;;Rotterdam;MOTAMEDI, Mr. morgun
+415;1;Leiden;male;44;1;0;39543;31188,75;;Rotterdam;BARANOWSKI, Mr. pail
+416;0;Leiden;female;NA;1;0;76051;31207,5;;Rotterdam;FULCHER, Mrs. celestyn
+417;1;Utrecht;female;34;2;1;63937;34875;;Rotterdam;SHORROCK, Mrs. nert
+418;1;Utrecht;female;18;1;2;79753;31950;;Rotterdam;PAYNA, Miss. hadria
+419;0;Utrecht;male;30;1;0;63107;31950;;Rotterdam;JACQUEZ, Mr. mortie
+420;0;Leiden;female;10;1;2;22466;33622,5;;Rotterdam;MARLAR, Miss. letti
+421;0;Leiden;male;NA;1;0;68944;31184,37;;Amsterdam (the Edge);MOLES, Mr. ly
+422;0;Leiden;male;21;1;0;51712;31159,995;;Utrecht;HAITHCOCK, Mr. burty
+423;0;Leiden;male;29;1;0;68523;31181,25;;Rotterdam;WEHRENBERG, Mr. hasty
+424;0;Leiden;female;28;2;1;32123;32160;;Rotterdam;MACMULLEN, Mrs. ellie
+425;0;Leiden;male;18;2;1;59052;33031,875;;Rotterdam;ZELLA, Mr. gibby
+426;0;Leiden;male;NA;1;0;33208;31087,5;;Rotterdam;ELLEGOOD, Mr. eduardo
+427;1;Utrecht;female;28;2;0;59774;33900;;Rotterdam;JAURON, Mrs. damaris
+428;1;Utrecht;female;19;1;0;90343;33900;;Rotterdam;ESTOCK, Miss. haleigh
+429;0;Leiden;male;NA;1;0;95048;31162,5;;Utrecht;DERWITSCH, Mr. teodoro
+430;1;Leiden;male;32;1;0;76758;31207,5;E;Rotterdam;LIMONES, Mr. umberto
+431;1;Amsterdam;male;28;1;0;88248;33982,5;C;Rotterdam;ROCCA, Mr. basile
+432;1;Leiden;female;NA;2;0;45642;32415;;Rotterdam;MOSCA, Mrs. jobie
+433;1;Utrecht;female;42;2;0;28114;33900;;Rotterdam;CAPASSO, Mrs. janina
+434;0;Leiden;male;17;1;0;23252;31068,75;;Rotterdam;DISHMAN, Mr. erl
+435;0;Amsterdam;male;50;2;0;92620;38385;E;Rotterdam;CADDIGAN, Mr. herbert
+436;1;Amsterdam;female;14;2;2;89954;48000;B;Rotterdam;LAFRANCOIS, Miss. sadie
+437;0;Leiden;female;21;3;2;91604;35156,25;;Rotterdam;BECH, Miss. babbie
+438;1;Utrecht;female;24;3;3;8585;32812,5;;Rotterdam;CASELDEN, Mrs. deina
+439;0;Amsterdam;male;64;2;4;86689;69450;C;Rotterdam;PELTIER, Mr. emmy
+440;0;Utrecht;male;31;1;0;32840;31575;;Rotterdam;DUNTON, Mr. rutger
+441;1;Utrecht;female;45;2;1;82055;33937,5;;Rotterdam;DIETTERICK, Mrs. yovonnda
+442;0;Leiden;male;20;1;0;58679;31425;;Rotterdam;MUN, Mr. duffie
+443;0;Leiden;male;25;2;0;9986;31166,25;;Rotterdam;BRICKNELL, Mr. sutherland
+444;1;Utrecht;female;28;1;0;390;31950;;Rotterdam;MACCHIO, Ms. cori
+445;1;Leiden;male;NA;1;0;45627;31216,875;;Rotterdam;ZOLLARS, Mr. bartolomeo
+446;1;Amsterdam;male;4;1;2;47750;42278,745;A;Rotterdam;SCHLERETH, Master. rodolphe
+447;1;Utrecht;female;13;1;1;56781;32925;;Rotterdam;RASUAL, Miss. lena
+448;1;Amsterdam;male;34;1;0;18113;33982,5;;Rotterdam;BOOTHROYD, Mr. layton
+449;1;Leiden;female;5;3;1;34750;32888,745;;Amsterdam (the Edge);DURTSCHI, Miss. ginnie
+450;1;Amsterdam;male;52;1;0;29083;34575;C;Rotterdam;THOBBS, Major. kasper
+451;0;Utrecht;male;36;2;2;1666;34162,5;;Rotterdam;OLEN, Mr. osgood
+452;0;Leiden;male;NA;2;0;47142;32995,005;;Rotterdam;CASADA, Mr. dukie
+453;0;Amsterdam;male;30;1;0;98447;34162,5;C;Amsterdam (the Edge);STAKEMANN, Mr. stephan
+454;1;Amsterdam;male;49;2;0;77694;43365,63;C;Amsterdam (the Edge);SCHAETZLE, Mr. kermie
+455;0;Leiden;male;NA;1;0;74169;31207,5;;Rotterdam;DUIS, Mr. claudianus
+456;1;Leiden;male;29;1;0;19289;31184,37;;Amsterdam (the Edge);DANSBY, Mr. paxton
+457;0;Amsterdam;male;65;1;0;33392;33982,5;E;Rotterdam;DIVEL, Mr. drew
+458;1;Amsterdam;female;NA;2;0;76250;37779,375;D;Rotterdam;GOWDY, Mrs. martynne
+459;1;Utrecht;female;50;1;0;63746;31575;;Rotterdam;BLACKETER, Miss. belicia
+460;0;Leiden;male;NA;1;0;27066;31162,5;;Utrecht;STANKIEWICZ, Mr. randell
+461;1;Amsterdam;male;48;1;0;99940;33982,5;E;Rotterdam;CALVI, Mr. burch
+462;0;Leiden;male;34;1;0;92632;31207,5;;Rotterdam;RACKERS, Mr. shaw
+463;0;Amsterdam;male;47;1;0;51792;35775;E;Rotterdam;BRAUGHTON, Mr. paxton
+464;0;Utrecht;male;48;1;0;55755;31950;;Rotterdam;CALI, Mr. reid
+465;0;Leiden;male;NA;1;0;19262;31207,5;;Rotterdam;STROHBEHN, Mr. cazzie
+466;0;Leiden;male;38;1;0;48863;31057,5;;Rotterdam;KALDAS, Mr. reid
+467;0;Utrecht;male;NA;1;0;61449;30000;;Rotterdam;LEVANDER, Mr. vaughn
+468;0;Amsterdam;male;56;1;0;77953;33982,5;;Rotterdam;TOAN, Mr. onofredo
+469;0;Leiden;male;NA;1;0;55180;31158,75;;Utrecht;SCHABEL, Mr. haskell
+470;1;Leiden;female;0,75;3;1;34750;32888,745;;Amsterdam (the Edge);DURTSCHI, Miss. lyndell
+471;0;Leiden;male;NA;1;0;64505;31087,5;;Rotterdam;PLACINO, Mr. meir
+472;0;Leiden;male;38;1;0;68039;31299,375;;Rotterdam;UNDERBERG, Mr. jeth
+473;1;Utrecht;female;33;2;2;1666;34162,5;;Rotterdam;OLEN, Mrs. lisha
+474;1;Utrecht;female;23;1;0;84116;32068,755;D;Amsterdam (the Edge);PEVEZ, Mrs. michelina
+475;0;Leiden;female;22;1;0;11141;31475,625;;Rotterdam;VILLALOBAS, Miss. sib
+476;0;Amsterdam;male;NA;1;0;76427;37800;A;Rotterdam;READER, Mr. derril
+477;0;Utrecht;male;34;2;0;75928;33150;;Rotterdam;MCRANEY, Mr. clement
+478;0;Leiden;male;29;2;0;62864;31056,87;;Rotterdam;WOHLWEND, Mr. hewie
+479;0;Leiden;male;22;1;0;11533;31128,12;;Rotterdam;GALIPEAU, Mr. lorrie
+480;1;Leiden;female;2;1;1;35511;31843,125;;Rotterdam;KEASLEY, Miss. katherine
+481;0;Leiden;male;9;6;2;72232;37035;;Rotterdam;TALLIS, Master. olly
+482;0;Utrecht;male;NA;1;0;15941;30000;;Rotterdam;LELACHEUR, Mr. gregg
+483;0;Leiden;male;50;1;0;16890;31207,5;;Rotterdam;SLADE, Mr. ario
+484;1;Leiden;female;63;1;0;50403;31438,125;;Rotterdam;GALANIS, Mrs. loutitia
+485;1;Amsterdam;male;25;2;0;90561;43661,88;B;Amsterdam (the Edge);MAYCUMBER, Mr. jaimie
+486;0;Leiden;female;NA;4;1;94139;33820,005;;Rotterdam;MONTIE, Miss. rowena
+487;1;Amsterdam;female;35;2;0;93708;43500;C;Rotterdam;BUX, Mrs. lusa
+488;0;Amsterdam;male;58;1;0;5630;34455;B;Amsterdam (the Edge);ARENDASH, Mr. caleb
+489;0;Leiden;male;30;1;0;81387;31207,5;;Rotterdam;KISIEL, Mr. tirrell
+490;1;Leiden;male;9;2;1;29552;32385;;Rotterdam;HATKE, Master. sergent
+491;0;Leiden;male;NA;2;0;25745;32995,005;;Rotterdam;CASADA, Mr. paxton
+492;0;Leiden;male;21;1;0;69207;31087,5;;Rotterdam;KETTERING, Mr. aylmar
+493;0;Amsterdam;male;55;1;0;31699;34575;C;Rotterdam;MUNZER, Mr. devland
+494;0;Amsterdam;male;71;1;0;21830;37425,63;;Amsterdam (the Edge);MABERY, Mr. ezri
+495;0;Leiden;male;21;1;0;94613;31207,5;;Rotterdam;JANDREAU, Mr. hamlin
+496;0;Leiden;male;NA;1;0;44004;32168,745;;Amsterdam (the Edge);WOODRICH, Mr. hasheem
+497;1;Amsterdam;female;54;2;0;69100;41740,005;D;Amsterdam (the Edge);GRAGE, Miss. reta
+498;0;Leiden;male;NA;1;0;31056;32265;;Rotterdam;MAZUO, Mr. hale
+499;0;Amsterdam;female;25;2;2;74562;52732,5;C;Rotterdam;SPEARES, Mrs. pamelina
+500;0;Leiden;male;24;1;0;56919;31169,37;;Rotterdam;GARBIN, Mr. emery
+501;0;Leiden;male;17;1;0;47684;31299,375;;Rotterdam;RAETHKE, Mr. shellysheldon
+502;0;Leiden;female;21;1;0;17268;31162,5;;Utrecht;CLONCH, Miss. kellsie
+503;0;Leiden;female;NA;1;0;51088;31144,38;;Utrecht;PARDOE, Miss. debi
+504;0;Leiden;female;37;1;0;50042;31438,125;;Rotterdam;LOCANTE, Miss. laurena
+505;1;Amsterdam;female;16;1;0;27586;42975;B;Rotterdam;PAPARELLA, Miss. cele
+506;0;Amsterdam;male;18;2;0;95404;46335;C;Amsterdam (the Edge);RIGHTMYER, Mr. kristoforo
+507;1;Utrecht;female;33;1;2;71134;33900;;Rotterdam;COOPERSMITH, Mrs. netty
+508;1;Amsterdam;male;NA;1;0;30877;33982,5;;Rotterdam;KERSHNER, Mr. jean
+509;0;Leiden;male;28;1;0;7005;33378,75;;Rotterdam;FILLERUP, Mr. ario
+510;1;Leiden;male;26;1;0;63768;38474,37;;Rotterdam;BERRIGAN, Mr. marven
+511;1;Leiden;male;29;1;0;57483;31162,5;;Utrecht;MARCKS, Mr. esra
+512;0;Leiden;male;NA;1;0;38178;31207,5;;Rotterdam;FRANKO, Mr. aldwin
+513;1;Amsterdam;male;36;1;0;1677;33943,125;E;Rotterdam;MUNZ, Mr. barth
+514;1;Amsterdam;female;54;2;0;73342;38910;;Amsterdam (the Edge);BROUGHER, Mrs. esta
+515;0;Leiden;male;24;1;0;50469;31124,37;;Rotterdam;STUER, Mr. augustine
+516;0;Amsterdam;male;47;1;0;75839;35103,12;D;Rotterdam;MCLAUREN, Mr. josh
+517;1;Utrecht;female;34;1;0;13460;31575;F;Rotterdam;DEKREY, Mrs. fredericka
+518;0;Leiden;male;NA;1;0;99664;33622,5;;Utrecht;OKITSU, Mr. aylmer
+519;1;Utrecht;female;36;2;0;59601;33900;;Rotterdam;WALBY, Mrs. bari
+520;0;Leiden;male;32;1;0;54431;31184,37;;Rotterdam;KALBERER, Mr. clay
+521;1;Amsterdam;female;30;1;0;44365;44025;B;Rotterdam;STINEMETZ, Miss. leese
+522;0;Leiden;male;22;1;0;38581;31184,37;;Rotterdam;FAMAGELTTO, Mr. bing
+523;0;Leiden;male;NA;1;0;11571;31083,75;;Amsterdam (the Edge);SEVERINO, Mr. hurley
+524;1;Amsterdam;female;44;1;1;60564;38696,88;B;Amsterdam (the Edge);HALPHEN, Mrs. kippy
+525;0;Leiden;male;NA;1;0;30934;31084,38;;Amsterdam (the Edge);MYCROFT, Mr. hasheem
+526;0;Leiden;male;40,5;1;0;70842;31162,5;;Utrecht;CASTROS, Mr. aubrey
+527;1;Utrecht;female;50;1;0;86620;31575;;Rotterdam;GILTON, Miss. dorelle
+528;0;Amsterdam;male;NA;1;0;70307;63266,88;C;Rotterdam;DERRER, Mr. sauncho
+529;0;Leiden;male;39;1;0;96149;31188,75;;Rotterdam;CARRY, Mr. whitman
+530;0;Utrecht;male;23;3;1;34592;31725;;Rotterdam;SHECKLES, Mr. conrado
+531;1;Utrecht;female;2;2;1;71134;33900;;Rotterdam;COOPERSMITH, Miss. flss
+532;0;Leiden;male;NA;1;0;24943;31084,38;;Amsterdam (the Edge);MAISONAVE, Mr. durward
+533;0;Leiden;male;17;2;1;913;31084,38;;Amsterdam (the Edge);COVITZ, Mr. earl
+534;1;Leiden;female;NA;1;2;81843;33353,745;;Amsterdam (the Edge);RIGGLES, Mrs. hester
+535;0;Leiden;female;30;1;0;15714;31299,375;;Rotterdam;UNDERBERG, Miss. corny
+536;1;Utrecht;female;7;1;2;82055;33937,5;;Rotterdam;DIETTERICK, Miss. dedie
+537;0;Amsterdam;male;45;1;0;85300;33982,5;B;Rotterdam;FIRST, Major. paxton
+538;1;Amsterdam;female;30;1;0;80285;45963,75;;Amsterdam (the Edge);MARKSTROM, Miss. blondelle
+539;0;Leiden;male;NA;1;0;41740;32175;;Rotterdam;WILSON, Mr. thorndike
+540;1;Amsterdam;female;22;1;2;34130;37425;B;Amsterdam (the Edge);TROILO, Miss. modesta
+541;1;Amsterdam;female;36;1;2;11246;40650;B;Rotterdam;LOOSLI, Miss. ninon
+542;0;Leiden;female;9;5;2;46630;34691,25;;Rotterdam;MERCHEN, Miss. julia
+543;0;Leiden;female;11;5;2;46630;34691,25;;Rotterdam;MERCHEN, Miss. hadria
+544;1;Utrecht;male;32;2;0;3384;33900;;Rotterdam;GERST, Mr. delaney
+545;0;Amsterdam;male;50;2;0;80285;45963,75;C;Amsterdam (the Edge);GROSCH, Mr. thaine
+546;0;Amsterdam;male;64;1;0;3981;33900;;Rotterdam;OAKS, Mr. perice
+547;1;Utrecht;female;19;2;0;3384;33900;;Rotterdam;GERST, Mrs. anthiathia
+548;1;Utrecht;male;NA;1;0;22642;32079,375;;Amsterdam (the Edge);PERRIGAN, Mr. nickola
+549;0;Leiden;male;33;2;1;94254;33078,75;;Rotterdam;MOFFAT, Mr. wendel
+550;1;Utrecht;male;8;2;1;91496;35512,5;;Rotterdam;HREHA, Master. lammond
+551;1;Amsterdam;male;17;1;2;62754;46632,495;C;Amsterdam (the Edge);SWEETIN, Mr. boyce
+552;0;Utrecht;male;27;1;0;62929;33900;;Rotterdam;HOHENSEE, Mr. earle
+553;0;Leiden;male;NA;1;0;99295;31174,38;;Utrecht;PAULI, Mr. nestor
+554;1;Leiden;male;22;1;0;57567;31083,75;;Amsterdam (the Edge);HOLTHOUSE, Mr. patric
+555;1;Leiden;female;22;1;0;1382;31166,25;;Rotterdam;HUDAK, Miss. stephie
+556;0;Amsterdam;male;62;1;0;86943;33982,5;;Rotterdam;BAR, Mr. tully
+557;1;Amsterdam;female;48;2;0;50610;35940;A;Amsterdam (the Edge);DAVERSA, Lady. tarra
+558;0;Amsterdam;male;NA;1;0;48868;64128,75;;Amsterdam (the Edge);FENNIWALD, Mr. barrett
+559;1;Amsterdam;female;39;2;1;79963;41947,5;E;Rotterdam;SEIDMAN, Mrs. emalia
+560;1;Leiden;female;36;2;0;87602;32610;;Rotterdam;MCGIVERON, Mrs. ludovika
+561;0;Leiden;male;NA;1;0;89150;31162,5;;Utrecht;KALAFUT, Mr. nicholas
+562;0;Leiden;male;40;1;0;23123;31184,37;;Rotterdam;KRAUTH, Mr. frannie
+563;0;Utrecht;male;28;1;0;82241;32025;;Rotterdam;TEMOSHENKA, Mr. harley
+564;0;Leiden;male;NA;1;0;81312;31207,5;;Rotterdam;STAACK, Mr. land
+565;0;Leiden;female;NA;1;0;6408;31207,5;;Rotterdam;PETESIC, Miss. darla
+566;0;Leiden;male;24;3;0;7505;33622,5;;Rotterdam;HREHA, Mr. cale
+567;0;Leiden;male;19;1;0;99626;31184,37;;Rotterdam;HAMIDI, Mr. bradan
+568;0;Leiden;female;29;1;4;11117;33161,25;;Rotterdam;HOLTZLANDER, Mrs. gayla
+569;0;Leiden;male;NA;1;0;92518;31084,38;;Amsterdam (the Edge);PETREY, Mr. addie
+570;1;Leiden;male;32;1;0;83066;31178,13;;Rotterdam;SALAZA, Mr. finlay
+571;1;Utrecht;male;62;1;0;78466;31575;;Rotterdam;SCARLET, Mr. alanson
+572;1;Amsterdam;female;53;3;0;3939;37721,88;C;Rotterdam;BLAKLEY, Mrs. hester
+573;1;Amsterdam;male;36;1;0;47658;33958,125;E;Rotterdam;DERWITSCH, Mr. sebastiano
+574;1;Leiden;female;NA;1;0;95169;31162,5;;Utrecht;GARRON, Miss. heddie
+575;0;Leiden;male;16;1;0;83645;31207,5;;Rotterdam;DERIDDER, Mr. dilan
+576;0;Leiden;male;19;1;0;76978;32175;;Rotterdam;MASTROMARINO, Mr. ogden
+577;1;Utrecht;female;34;1;0;36760;31950;;Rotterdam;BAREIS, Miss. berte
+578;1;Amsterdam;female;39;2;0;92620;38385;E;Rotterdam;CADDIGAN, Mrs. clemmy
+579;0;Leiden;female;NA;2;0;34504;32168,745;;Amsterdam (the Edge);MCEADDY, Mrs. junie
+580;1;Leiden;male;32;1;0;96983;31188,75;;Rotterdam;DIONISIO, Mr. bartolomeo
+581;1;Utrecht;female;25;2;1;76642;34500;;Rotterdam;HERLINE, Miss. meggy
+582;1;Amsterdam;female;39;2;1;62754;46632,495;C;Amsterdam (the Edge);SWEETIN, Mrs. angelique
+583;0;Utrecht;male;54;1;0;93479;33900;;Rotterdam;AFZAL, Mr. francklin
+584;0;Amsterdam;male;36;1;0;54739;36018,75;A;Amsterdam (the Edge);FLINT, Mr. emmy
+585;0;Leiden;male;NA;1;0;61225;31306,875;;Amsterdam (the Edge);APPEL, Mr. jasen
+586;1;Amsterdam;female;18;1;2;79963;41947,5;E;Rotterdam;SEIDMAN, Miss. ninon
+587;0;Utrecht;male;47;1;0;84720;32250;;Rotterdam;LINDERMAN, Mr. isacco
+588;1;Amsterdam;male;60;2;1;86948;41880;B;Amsterdam (the Edge);KUSTERER, Mr. tirrell
+589;0;Leiden;male;22;1;0;58978;31207,5;;Rotterdam;MUNAR, Mr. keenan
+590;0;Leiden;male;NA;1;0;60760;31207,5;;Rotterdam;HANNAFORD, Mr. lyman
+591;0;Leiden;male;35;1;0;56952;31068,75;;Rotterdam;PALOMAREZ, Mr. lawry
+592;1;Amsterdam;female;52;2;0;69100;41740,005;D;Amsterdam (the Edge);RUBBO, Mrs. camala
+593;0;Leiden;male;47;1;0;90527;31087,5;;Rotterdam;HOLLIE, Mr. frasquito
+594;0;Leiden;female;NA;1;2;68261;31162,5;;Utrecht;SIPRASOEUTH, Miss. carina
+595;0;Utrecht;male;37;2;0;96620;33900;;Rotterdam;GIUS, Mr. onofredo
+596;0;Leiden;male;36;2;1;22466;33622,5;;Rotterdam;MARLAR, Mr. kasper
+597;1;Utrecht;female;NA;1;0;25890;34950;;Rotterdam;SZYPOWSKI, Miss. delora
+598;0;Leiden;male;49;1;0;89684;30000;;Rotterdam;TAPPEINER, Mr. cointon
+599;0;Leiden;male;NA;1;0;87902;31083,75;;Amsterdam (the Edge);ROHS, Mr. nickey
+600;1;Amsterdam;male;49;2;0;37461;38539,38;A;Amsterdam (the Edge);DAVERSA, Sir. addie
+601;1;Utrecht;female;24;3;1;48765;34050;;Rotterdam;CHAD, Mrs. lucinda
+602;0;Leiden;male;NA;1;0;11877;31184,37;;Rotterdam;MADONNA, Mr. kasper
+603;0;Amsterdam;male;NA;1;0;81988;36360;;Rotterdam;CASHETT, Mr. shannan
+604;0;Leiden;male;44;1;0;96997;31207,5;;Rotterdam;GIACOLONE, Mr. taite
+605;1;Amsterdam;male;35;1;0;17350;33982,5;;Amsterdam (the Edge);MELCHERT, Mr. jamesy
+606;0;Leiden;male;36;2;0;78631;32332,5;;Rotterdam;BAUS, Mr. wilton
+607;0;Leiden;male;30;1;0;87287;31184,37;;Rotterdam;WEINBAUER, Mr. leonardo
+608;1;Amsterdam;male;27;1;0;79467;34575;;Rotterdam;RUDO, Mr. odie
+609;1;Utrecht;female;22;2;2;76412;36236,88;;Amsterdam (the Edge);HARGREAVES, Mrs. mary
+610;1;Amsterdam;female;40;1;0;53766;53019,375;C;Rotterdam;MARLAR, Miss. ellie
+611;0;Leiden;female;39;2;5;46630;34691,25;;Rotterdam;MERCHEN, Mrs. evy
+612;0;Leiden;male;NA;1;0;37242;31057,5;;Rotterdam;KUBISHTA, Mr. chev
+613;1;Leiden;female;NA;2;0;25120;32325;;Utrecht;GIANNINI, Miss. robbyn
+614;0;Leiden;male;NA;1;0;90266;31162,5;;Utrecht;TABISULA, Mr. merwyn
+615;0;Leiden;male;35;1;0;9998;31207,5;;Rotterdam;NEUBIG, Mr. brnaba
+616;1;Utrecht;female;24;2;2;6151;39750;;Rotterdam;HAMISS, Miss. alyson
+617;0;Leiden;male;34;2;1;32123;32160;;Rotterdam;MACMULLEN, Mr. dickie
+618;0;Leiden;female;26;2;0;66268;32415;;Rotterdam;VANDERBERG, Mrs. marcy
+619;1;Utrecht;female;4;3;1;48097;35850;F;Rotterdam;WADHAMS, Miss. pansy
+620;0;Utrecht;male;26;1;0;87045;31575;;Rotterdam;DEWIEL, Mr. erl
+621;0;Leiden;male;27;2;0;6205;32168,13;;Amsterdam (the Edge);BUFORD, Mr. hagan
+622;1;Amsterdam;male;42;2;0;35792;37883,13;D;Rotterdam;RASPOTNIK, Mr. reagen
+623;1;Leiden;male;20;2;1;21392;32361,255;;Amsterdam (the Edge);CHRUSCIEL, Mr. alair
+624;0;Leiden;male;21;1;0;12009;31178,13;;Rotterdam;ELLEDGE, Mr. rodrigo
+625;0;Leiden;male;21;1;0;52843;32415;;Rotterdam;SAMET, Mr. sinclare
+626;0;Amsterdam;male;61;1;0;4469;34848,12;D;Rotterdam;LASSELLE, Mr. finn
+627;0;Utrecht;male;57;1;0;37262;31852,5;;Utrecht;CROSSMAN, Rev. aaron
+628;1;Amsterdam;female;21;1;0;59716;41693,745;D;Rotterdam;RAINWATER, Miss. henryetta
+629;0;Leiden;male;26;1;0;2845;31184,37;;Rotterdam;JENNELLE, Mr. tracie
+630;0;Leiden;male;NA;1;0;43183;31159,995;;Utrecht;TIEDE, Mr. edward
+631;1;Amsterdam;male;80;1;0;98514;34500;A;Rotterdam;GSELL, Mr. andras
+632;0;Leiden;male;51;1;0;10102;31058,13;;Rotterdam;PACE, Mr. algernon
+633;1;Amsterdam;male;32;1;0;58589;34575;B;Amsterdam (the Edge);HAPER, Dr. holmes
+634;0;Amsterdam;male;NA;1;0;31887;30000;;Rotterdam;ROLFE, Mr. michael
+635;0;Leiden;female;9;4;2;13566;34185;;Rotterdam;ANKERSEN, Miss. yvette
+636;1;Utrecht;female;28;1;0;11565;31950;;Rotterdam;MONTOYA, Miss. eden
+637;0;Leiden;male;32;1;0;85671;31188,75;;Rotterdam;HIBBARD, Mr. gabie
+638;0;Utrecht;male;31;2;1;80341;33937,5;;Rotterdam;MOISE, Mr. ignacio
+639;0;Leiden;female;41;1;5;27776;35953,125;;Rotterdam;RAPE, Mrs. jami
+640;0;Leiden;male;NA;2;0;45642;32415;;Rotterdam;MOSCA, Mr. brodie
+641;0;Leiden;male;20;1;0;82166;31178,13;;Rotterdam;CAVICCHI, Mr. edsel
+642;1;Amsterdam;female;24;1;0;15121;40395;B;Amsterdam (the Edge);MONTORE, Mlle. christine
+643;0;Leiden;female;2;4;2;13566;34185;;Rotterdam;ANKERSEN, Miss. jaimie
+644;1;Leiden;male;NA;1;0;63768;38474,37;;Rotterdam;KOSMALA, Mr. lucian
+645;1;Leiden;female;0,75;3;1;34750;32888,745;;Amsterdam (the Edge);DURTSCHI, Miss. jeri
+646;1;Amsterdam;male;48;2;0;68970;41509,38;D;Amsterdam (the Edge);DERGANCE, Mr. isacco
+647;0;Leiden;male;19;1;0;96099;31184,37;;Rotterdam;UPTHEGROVE, Mr. dag
+648;1;Amsterdam;male;56;1;0;17625;35325;A;Amsterdam (the Edge);MCGWIN, Col. taite
+649;0;Leiden;male;NA;1;0;26548;31132,5;;Rotterdam;BIELEC, Mr. arni
+650;1;Leiden;female;23;1;0;29509;31132,5;;Rotterdam;JANDREAU, Miss. carmel
+651;0;Leiden;male;NA;1;0;69205;31184,37;;Rotterdam;KAATZ, Mr. haskell
+652;1;Utrecht;female;18;1;1;83732;33450;;Rotterdam;MCCLINTOCK, Miss. noni
+653;0;Leiden;male;21;1;0;48070;31264,995;;Rotterdam;PARREIRA, Mr. kiley
+654;1;Leiden;female;NA;1;0;38921;31174,38;;Utrecht;GAMBRILL, Miss. caren
+655;0;Leiden;female;18;1;0;10739;31012,5;;Utrecht;KIBBY, Miss. julia
+656;0;Utrecht;male;24;3;0;63406;41025;;Rotterdam;SCHNEEKLOTH, Mr. gun
+657;0;Leiden;male;NA;1;0;3103;31184,37;;Rotterdam;KRUGH, Mr. had
+658;0;Leiden;female;32;2;1;36790;32325;;Utrecht;SIPRASOEUTH, Mrs. ardra
+659;0;Utrecht;male;23;1;0;49991;31950;;Rotterdam;HAMMERSMITH, Mr. upton
+660;0;Amsterdam;male;58;1;2;4213;46991,25;D;Amsterdam (the Edge);KURDZIEL, Mr. tiler
+661;1;Amsterdam;male;50;3;0;752;50047,5;;Rotterdam;ABKEMEIER, Dr. wendel
+662;0;Leiden;male;40;1;0;28044;31083,75;;Amsterdam (the Edge);WOMEN, Mr. curtis
+663;0;Amsterdam;male;47;1;0;18103;33838,125;E;Rotterdam;WILLMORE, Mr. morgun
+664;0;Leiden;male;36;1;0;91170;31124,37;;Rotterdam;STUER, Mr. cross
+665;1;Leiden;male;20;2;0;21613;31188,75;;Rotterdam;HILLSGROVE, Mr. earle
+666;0;Utrecht;male;32;3;0;63406;41025;;Rotterdam;SCHNEEKLOTH, Mr. tedd
+667;0;Utrecht;male;25;1;0;29431;31950;;Rotterdam;HAZELTINE, Mr. drew
+668;0;Leiden;male;NA;1;0;67403;31166,25;;Rotterdam;OWEN, Mr. maurizio
+669;0;Leiden;male;43;1;0;91878;31207,5;;Rotterdam;SHORTRIDGE, Mr. clement
+670;1;Amsterdam;female;NA;2;0;92667;37800;C;Rotterdam;TYBURSKI, Mrs. ava
+671;1;Utrecht;female;40;2;1;11351;35850;;Rotterdam;DUTTER, Mrs. junie
+672;0;Amsterdam;male;31;2;0;72609;37800;B;Rotterdam;GUTZMER, Mr. ewan
+673;0;Utrecht;male;70;1;0;50733;31575;;Rotterdam;ULLUM, Mr. peder
+674;1;Utrecht;male;31;1;0;88057;31950;;Rotterdam;GENEROSO, Mr. jessie
+675;0;Utrecht;male;NA;1;0;76894;30000;;Rotterdam;GUNZENHAUSER, Mr. cassie
+676;0;Leiden;male;18;1;0;73036;31166,25;;Rotterdam;HUBKA, Mr. stanford
+677;0;Leiden;male;24,5;1;0;23632;31207,5;;Rotterdam;DUFORT, Mr. eli
+678;1;Leiden;female;18;1;0;54372;31476,255;;Rotterdam;BARNESS, Miss. willi
+679;0;Leiden;female;43;2;6;72232;37035;;Rotterdam;TALLIS, Mrs. jolie
+680;1;Amsterdam;male;36;1;1;50663;106849,38;B;Amsterdam (the Edge);MAAS, Mr. shellysheldon
+681;0;Leiden;female;NA;1;0;43168;31220,625;;Utrecht;FROSS, Miss. theda
+682;1;Amsterdam;male;27;1;0;68970;41509,38;D;Amsterdam (the Edge);JEREB, Mr. mason
+683;0;Leiden;male;20;1;0;60219;31383,75;;Rotterdam;STRZYZEWSKI, Mr. tedd
+684;0;Leiden;male;14;6;2;72232;37035;;Rotterdam;TALLIS, Mr. michale
+685;0;Utrecht;male;60;2;1;11351;35850;;Rotterdam;DUTTER, Mr. frederic
+686;0;Utrecht;male;25;2;2;76412;36236,88;;Amsterdam (the Edge);HARGREAVES, Mr. moe
+687;0;Leiden;male;14;5;1;27776;35953,125;;Rotterdam;RAPE, Mr. rickert
+688;0;Leiden;male;19;1;0;28271;31525,62;;Rotterdam;BIDON, Mr. bogey
+689;0;Leiden;male;18;1;0;48186;31169,37;;Rotterdam;BENDLER, Mr. jamesy
+690;1;Amsterdam;female;15;1;1;63832;61700,625;B;Rotterdam;STARK, Miss. alaine
+691;1;Amsterdam;male;31;2;0;10592;38550;B;Rotterdam;SOBCZYK, Mr. upton
+692;1;Leiden;female;4;1;1;83182;32012,505;;Amsterdam (the Edge);HOOKANO, Miss. francesca
+693;1;Leiden;male;NA;1;0;63768;38474,37;;Rotterdam;OVERBY, Mr. stanford
+694;0;Leiden;male;25;1;0;32405;31083,75;;Amsterdam (the Edge);NOCEK, Mr. sloan
+695;0;Amsterdam;male;60;1;0;95454;33982,5;;Rotterdam;GARROW, Col. cale
+696;0;Utrecht;male;52;1;0;62240;32025;;Rotterdam;GIUS, Mr. lyman
+697;0;Leiden;male;44;1;0;31742;31207,5;;Rotterdam;GARRON, Mr. pincas
+698;1;Leiden;female;NA;1;0;8786;31159,995;;Utrecht;FIUMARA, Miss. lavena
+699;0;Amsterdam;male;49;2;1;62754;46632,495;C;Amsterdam (the Edge);SWEETIN, Mr. westley
+700;0;Leiden;male;42;1;0;48073;31147,5;F;Rotterdam;BARSCEWSKI, Mr. cris
+701;1;Amsterdam;female;18;2;0;48868;64128,75;C;Amsterdam (the Edge);AUGSBURGER, Mrs. tobi
+702;1;Amsterdam;male;35;1;0;23912;33943,125;E;Rotterdam;LENBERG, Mr. louie
+703;0;Leiden;female;18;1;1;30034;32168,13;;Amsterdam (the Edge);POWE, Miss. leona
+704;0;Leiden;male;25;1;0;82165;31161,255;;Utrecht;KELTNER, Mr. lucian
+705;0;Leiden;male;26;2;0;14837;31178,13;;Rotterdam;ELLEDGE, Mr. franklin
+706;0;Utrecht;male;39;1;0;90343;33900;;Rotterdam;RACKERS, Mr. sinclare
+707;1;Utrecht;female;45;1;0;52285;32025;;Rotterdam;GARRON, Mrs. alie
+708;1;Amsterdam;male;42;1;0;59809;33943,125;E;Rotterdam;GOCHIE, Mr. wilton
+709;1;Amsterdam;female;22;1;0;74562;52732,5;;Rotterdam;ODEH, Miss. alethea
+710;1;Leiden;male;NA;2;1;32384;32286,87;;Amsterdam (the Edge);STEINMAN, Master. cale
+711;1;Amsterdam;female;24;1;0;46504;37425,63;C;Amsterdam (the Edge);INFANTINO, Mlle. bernelle
+712;0;Amsterdam;male;NA;1;0;39700;33982,5;C;Rotterdam;SHUBIN, Mr. onofredo
+713;1;Amsterdam;male;48;2;0;92667;37800;C;Rotterdam;TYBURSKI, Mr. josh
+714;0;Leiden;male;29;1;0;71676;31422,495;;Rotterdam;ROHLING, Mr. jerri
+715;0;Utrecht;male;52;1;0;34145;31950;;Rotterdam;TULLIER, Mr. robinson
+716;0;Leiden;male;19;1;0;17269;31147,5;F;Rotterdam;BROTT, Mr. durward
+717;1;Amsterdam;female;38;1;0;48868;64128,75;C;Amsterdam (the Edge);LUSARDI, Miss. ebonee
+718;1;Utrecht;female;27;1;0;70872;31575;E;Rotterdam;POFAHL, Miss. rebeka
+719;0;Leiden;male;NA;1;0;37311;32325;;Utrecht;MCLAWHORN, Mr. hartley
+720;0;Leiden;male;33;1;0;83753;31166,25;;Rotterdam;TAPPEINER, Mr. richy
+721;1;Utrecht;female;6;1;1;25890;34950;;Rotterdam;DERGANCE, Miss. aubrey
+722;0;Leiden;male;17;2;0;68283;31058,13;;Rotterdam;CAVICCHI, Mr. zerk
+723;0;Utrecht;male;34;1;0;46410;31950;;Rotterdam;DURUN, Mr. heriberto
+724;0;Utrecht;male;50;1;0;49564;31950;;Rotterdam;KURDYLA, Mr. trent
+725;1;Amsterdam;male;27;2;0;4901;37965;E;Rotterdam;SCHRYER, Mr. claudianus
+726;0;Leiden;male;20;1;0;82163;31299,375;;Rotterdam;ASIEDU, Mr. marvin
+727;1;Utrecht;female;30;4;0;75928;33150;;Rotterdam;MCRANEY, Mrs. marnia
+728;1;Leiden;female;NA;1;0;26318;31160,625;;Utrecht;FIGUERA, Miss. carmita
+729;0;Utrecht;male;25;2;0;72729;33900;;Rotterdam;GARMAN, Mr. ramon
+730;0;Leiden;female;25;2;0;19976;31188,75;;Rotterdam;BREGE, Miss. lizzy
+731;1;Amsterdam;female;29;1;0;63832;61700,625;B;Rotterdam;BRINGAS, Miss. jo ann
+732;0;Leiden;male;11;1;0;14571;32818,125;;Amsterdam (the Edge);HERRAN, Mr. salvidor
+733;0;Utrecht;male;NA;1;0;87983;30000;;Rotterdam;STEENBURGH, Mr. obidiah
+734;0;Utrecht;male;23;1;0;36705;31950;;Rotterdam;BURDEX, Mr. emelen
+735;0;Utrecht;male;23;1;0;82607;31950;;Rotterdam;CUPELLI, Mr. earl
+736;0;Leiden;male;28,5;1;0;52843;32415;;Rotterdam;RITARI, Mr. had
+737;0;Leiden;female;48;2;3;91604;35156,25;;Rotterdam;BECH, Mrs. reiko
+738;1;Amsterdam;male;35;1;0;50663;106849,38;B;Amsterdam (the Edge);MASEK, Mr. flin
+739;0;Leiden;male;NA;1;0;72574;31184,37;;Rotterdam;POSTHUMUS, Mr. arnoldo
+740;0;Leiden;male;NA;1;0;38010;31184,37;;Rotterdam;BEEDOO, Mr. terrence
+741;1;Amsterdam;male;NA;1;0;94560;34500;D;Rotterdam;FRACCHIA, Mr. cazzie
+742;0;Amsterdam;male;36;2;0;3653;41827,5;C;Rotterdam;COSTANTINO, Mr. aldwin
+743;1;Amsterdam;female;21;3;2;49046;69356,25;B;Amsterdam (the Edge);THEOS, Miss. amie
+744;0;Leiden;male;24;2;0;26585;32415;;Rotterdam;SABINA, Mr. archer
+745;1;Leiden;male;31;1;0;72544;31188,75;;Rotterdam;RYCROFT, Mr. berkly
+746;0;Amsterdam;male;70;2;1;11246;40650;B;Rotterdam;LOOSLI, Capt. aylmer
+747;0;Leiden;male;16;2;1;91939;33037,5;;Rotterdam;MAISEL, Mr. royal
+748;1;Utrecht;female;30;1;0;94635;31950;;Rotterdam;ARRENDONDO, Miss. joli
+749;0;Amsterdam;male;19;2;0;54518;37965;D;Rotterdam;CARICOFE, Mr. nicholas
+750;0;Leiden;male;31;1;0;29757;31162,5;;Utrecht;HEAN, Mr. hugues
+751;1;Utrecht;female;4;2;1;97805;33450;;Rotterdam;ZUIDEMA, Miss. janifer
+752;1;Leiden;male;6;1;1;29856;31871,25;E;Rotterdam;MASHACK, Master. ollie
+753;0;Leiden;male;33;1;0;75005;31425;;Rotterdam;RECHER, Mr. carroll
+754;0;Leiden;male;23;1;0;94232;31184,37;;Rotterdam;BAMFIELD, Mr. ingelbert
+755;1;Utrecht;female;48;2;2;6151;39750;;Rotterdam;HAMISS, Mrs. nicolette
+756;1;Utrecht;male;0,67;2;1;29840;32175;;Rotterdam;SCARINGE, Master. berkly
+757;0;Leiden;male;28;1;0;58805;31169,37;;Rotterdam;BECKWITH, Mr. zacherie
+758;0;Utrecht;male;18;1;0;55070;31725;;Rotterdam;INABINETT, Mr. hurley
+759;0;Leiden;male;34;1;0;34367;31207,5;;Rotterdam;SCOUTEN, Mr. basile
+760;1;Amsterdam;female;33;1;0;27586;42975;B;Rotterdam;FAUSSET, the Countess. raphaela
+761;0;Leiden;male;NA;1;0;76978;32175;;Rotterdam;KNEELAND, Mr. nicholas
+762;0;Leiden;male;41;1;0;49629;31068,75;;Rotterdam;VOGDS, Mr. hobey
+763;1;Leiden;male;20;1;0;46752;31084,38;;Amsterdam (the Edge);BURGBACHER, Mr. kimble
+764;1;Amsterdam;female;36;2;2;89954;48000;B;Rotterdam;LAFRANCOIS, Mrs. kat
+765;0;Leiden;male;16;1;0;48738;31166,25;;Rotterdam;HELVY, Mr. haleigh
+766;1;Amsterdam;female;51;2;0;59716;41693,745;D;Rotterdam;OLESKY, Mrs. jillayne
+767;0;Amsterdam;male;NA;1;0;46998;35940;;Amsterdam (the Edge);GILLMING, Dr. jarad
+768;0;Leiden;female;30,5;1;0;15150;31162,5;;Utrecht;HAMM, Miss. giorgia
+769;0;Leiden;male;NA;2;0;99664;33622,5;;Utrecht;TURCOTT, Mr. jarad
+770;0;Leiden;male;32;1;0;45925;31254,375;;Rotterdam;CALCAO, Mr. izzy
+771;0;Leiden;male;24;1;0;40928;31425;;Rotterdam;BIXBY, Mr. christoffer
+772;0;Leiden;male;48;1;0;52088;31178,13;;Rotterdam;CAVICCHI, Mr. sergio
+773;0;Utrecht;female;57;1;0;35181;31575;E;Rotterdam;PALEAAE, Mrs. teirtza
+774;0;Leiden;male;NA;1;0;7088;31083,75;;Amsterdam (the Edge);COVITZ, Mr. euell
+775;1;Utrecht;female;54;2;3;17814;33450;;Rotterdam;SHECKLES, Mrs. leigha
+776;0;Leiden;male;18;1;0;73229;31162,5;;Rotterdam;BRENDLINGER, Mr. adan
+777;0;Leiden;male;NA;1;0;40858;31162,5;F;Utrecht;BILOUS, Mr. edward
+778;1;Leiden;female;5;1;0;30217;31871,25;;Rotterdam;LANNAN, Miss. kathi
+779;0;Leiden;male;NA;1;0;10096;31160,625;;Utrecht;PICKER, Mr. conan
+780;1;Amsterdam;female;43;1;1;63832;61700,625;B;Rotterdam;GALANG, Mrs. rosanna
+781;1;Leiden;female;13;1;0;88722;31084,38;;Amsterdam (the Edge);GARRIOTT, Miss. florri
+782;1;Amsterdam;female;17;2;0;10592;38550;B;Rotterdam;SOBCZYK, Mrs. rosamond
+783;0;Amsterdam;male;29;1;0;30717;34500;D;Rotterdam;DENTINO, Mr. lamar
+784;0;Leiden;male;NA;2;2;22339;33517,5;;Rotterdam;CAMLIN, Mr. kerk
+785;0;Leiden;male;25;1;0;77642;31057,5;;Rotterdam;STOEGER, Mr. torrence
+786;0;Leiden;male;25;1;0;44927;31087,5;;Rotterdam;SIGAFUS, Mr. vince
+787;1;Leiden;female;18;1;0;69306;31124,37;;Rotterdam;REIMUND, Miss. babbie
+788;0;Leiden;male;8;5;1;90509;34368,75;;Utrecht;DALLAIRE, Master. jeth
+789;1;Leiden;male;1;2;2;37819;33086,25;;Rotterdam;WEIDENBACH, Master. marven
+790;0;Amsterdam;male;46;1;0;33531;41880;B;Amsterdam (the Edge);TEACH, Mr. tully
+791;0;Leiden;male;NA;1;0;30066;31162,5;;Utrecht;LELE, Mr. elliot
+792;0;Utrecht;male;16;1;0;15812;33900;;Rotterdam;QUINERLY, Mr. merwyn
+793;0;Leiden;female;NA;9;2;28570;40432,5;;Rotterdam;CIRAOLO, Miss. jo-ann
+794;0;Amsterdam;male;NA;1;0;19688;34604,37;;Amsterdam (the Edge);BUX, Mr. palmer
+795;0;Leiden;male;25;1;0;88331;31184,37;;Rotterdam;SCHILLER, Mr. donavon
+796;0;Utrecht;male;39;1;0;95133;31950;;Rotterdam;ELDIB, Mr. aland
+797;1;Amsterdam;female;49;1;0;32824;33889,38;D;Rotterdam;GRIMMETT, Dr. cherlyn
+798;1;Leiden;female;31;1;0;57485;31302,495;;Rotterdam;DEVITT, Mrs. drucy
+799;0;Leiden;male;30;1;0;21830;31084,38;;Amsterdam (the Edge);BAZIN, Mr. tirrell
+800;0;Leiden;female;30;2;1;22466;33622,5;;Rotterdam;MARLAR, Mrs. fidelity
+801;0;Utrecht;male;34;1;0;34145;31950;;Rotterdam;VALLANGEON, Mr. ellerey
+802;1;Utrecht;female;31;2;1;80341;33937,5;;Rotterdam;MOISE, Mrs. janelle
+803;1;Amsterdam;male;11;2;2;89954;48000;B;Rotterdam;LAFRANCOIS, Master. hilliard
+804;1;Leiden;male;0,42;1;1;8922;31277,505;;Amsterdam (the Edge);GIFFIN, Master. sloan
+805;1;Leiden;male;27;1;0;78725;31046,25;;Rotterdam;LATIMER, Mr. ravid
+806;0;Leiden;male;31;1;0;25538;31166,25;;Rotterdam;PORTIS, Mr. augie
+807;0;Amsterdam;male;39;1;0;93770;30000;A;Rotterdam;MINACCI, Mr. karlik
+808;0;Leiden;female;18;1;0;71394;31166,25;;Rotterdam;SHERTZER, Miss. tracey
+809;0;Utrecht;male;39;1;0;38431;31950;;Rotterdam;YELVINGTON, Mr. gran
+810;1;Amsterdam;female;33;2;0;4901;37965;E;Rotterdam;SCHRYER, Mrs. dorine
+811;0;Leiden;male;26;1;0;45428;31183,125;;Rotterdam;COBOS, Mr. montgomery
+812;0;Leiden;male;39;1;0;7505;33622,5;;Rotterdam;KUEN, Mr. darill
+813;0;Utrecht;male;35;1;0;59313;31575;;Rotterdam;ZUMAYA, Mr. pierce
+814;0;Leiden;female;6;5;2;46630;34691,25;;Rotterdam;MERCHEN, Miss. elinore
+815;0;Leiden;male;30,5;1;0;72886;31207,5;;Rotterdam;SUNDERMEYER, Mr. rad
+816;0;Amsterdam;male;NA;1;0;18504;30000;B;Rotterdam;FAHRNI, Mr. zerk
+817;0;Leiden;female;23;1;0;26210;31188,75;;Rotterdam;FINAN, Miss. norrie
+818;0;Utrecht;male;31;2;1;9020;35550,63;;Amsterdam (the Edge);LASSETTER, Mr. thorndike
+819;0;Leiden;male;43;1;0;4610;30967,5;;Rotterdam;SEVIN, Mr. geoffry
+820;0;Leiden;male;10;4;2;13566;34185;;Rotterdam;ANKERSEN, Master. lisle
+821;1;Amsterdam;female;52;2;1;44365;44025;B;Rotterdam;VITTI, Mrs. cecil
+822;1;Leiden;male;27;1;0;12171;31299,375;;Rotterdam;BIZZARD, Mr. ferrel
+823;0;Amsterdam;male;38;1;0;58896;30000;;Rotterdam;RUEHTER, Jonkheer. augustine
+824;1;Leiden;female;27;1;1;29856;31871,25;E;Rotterdam;MASHACK, Mrs. ophelie
+825;0;Leiden;male;2;5;1;27776;35953,125;;Rotterdam;RAPE, Master. vaughn
+826;0;Leiden;male;NA;1;0;82938;31042,5;;Utrecht;DERWITSCH, Mr. hartley
+827;0;Leiden;male;NA;1;0;63768;38474,37;;Rotterdam;OVERBY, Mr. kristoforo
+828;1;Utrecht;male;1;1;2;9020;35550,63;;Amsterdam (the Edge);LASSETTER, Master. gilburt
+829;1;Leiden;male;NA;1;0;55334;31162,5;;Utrecht;DETCHON, Mr. tamas
+830;1;Amsterdam;female;62;1;0;88090;42000;B;;HARSHAW, Mrs. kayley
+831;1;Leiden;female;15;2;0;6205;32168,13;;Amsterdam (the Edge);BUFORD, Mrs. edita
+832;1;Utrecht;male;0,83;2;1;8585;32812,5;;Rotterdam;CASELDEN, Master. dilan
+833;0;Leiden;male;NA;1;0;21555;31084,38;;Amsterdam (the Edge);NOCEK, Mr. malachi
+834;0;Leiden;male;23;1;0;46976;31178,13;;Rotterdam;HEIDELBERGER, Mr. osbourne
+835;0;Leiden;male;18;1;0;41365;31245;;Rotterdam;BIRKEY, Mr. byrom
+836;1;Amsterdam;female;39;2;1;6807;42473,745;E;Amsterdam (the Edge);SLIGH, Miss. elane
+837;0;Leiden;male;21;1;0;57959;31299,375;;Rotterdam;DOLLAK, Mr. roma
+838;0;Leiden;male;NA;1;0;23065;31207,5;;Rotterdam;ROHS, Mr. stephan
+839;1;Leiden;male;32;1;0;63768;38474,37;;Rotterdam;JEANNOTTE, Mr. rem
+840;1;Amsterdam;male;NA;1;0;5524;34455;C;Amsterdam (the Edge);KAKANI, Mr. spike
+841;0;Leiden;male;20;1;0;55123;31188,75;;Rotterdam;FUCILE, Mr. garold
+842;0;Utrecht;male;16;1;0;35181;31575;;Rotterdam;KOTZ, Mr. morgun
+843;1;Amsterdam;female;30;1;0;40662;34650;;Amsterdam (the Edge);GOCKERELL, Miss. leonora
+844;0;Leiden;male;34,5;1;0;44135;30965,625;;Amsterdam (the Edge);KOTTER, Mr. egan
+845;0;Leiden;male;17;1;0;68496;31299,375;;Rotterdam;WEISSER, Mr. haskell
+846;0;Leiden;male;42;1;0;419;31132,5;;Rotterdam;RUNDLETT, Mr. aldwin
+847;0;Leiden;male;NA;9;2;28570;40432,5;;Rotterdam;CIRAOLO, Mr. clement
+848;0;Leiden;male;35;1;0;25287;31184,37;;Amsterdam (the Edge);PICKHARDT, Mr. malachi
+849;0;Utrecht;male;28;1;1;25890;34950;;Rotterdam;DERGANCE, Rev. tye
+850;1;Amsterdam;female;NA;2;0;77694;43365,63;C;Amsterdam (the Edge);SCHAETZLE, Mrs. cecil
+851;0;Leiden;male;4;5;2;46630;34691,25;;Rotterdam;MERCHEN, Master. egor
+852;0;Leiden;male;74;1;0;85120;31166,25;;Rotterdam;GARBIN, Mr. karlik
+853;0;Leiden;female;9;2;1;62757;32286,87;;Amsterdam (the Edge);ROHS, Miss. chastity
+854;1;Amsterdam;female;16;1;1;24443;35910;D;Rotterdam;YELEY, Miss. clarissa
+855;0;Utrecht;female;44;2;0;54626;33900;;Rotterdam;LAFRANCOIS, Mrs. brit
+856;1;Leiden;female;18;1;1;66493;31402,5;;Rotterdam;FINNE, Mrs. bernelle
+857;1;Amsterdam;female;45;2;1;71509;54730,005;;Rotterdam;THIEL, Mrs. chickie
+858;1;Amsterdam;male;51;1;0;92292;33982,5;E;Rotterdam;MARCKS, Mr. staford
+859;1;Leiden;female;24;1;3;34750;32888,745;;Amsterdam (the Edge);DURTSCHI, Mrs. teddi
+860;0;Leiden;male;NA;1;0;56848;31084,38;;Amsterdam (the Edge);MCGILLEN, Mr. cece
+861;0;Leiden;male;41;3;0;23549;32116,245;;Rotterdam;ELLEDGE, Mr. orran
+862;0;Utrecht;male;21;2;0;30365;31725;;Rotterdam;MCCONNICO, Mr. salomone
+863;1;Amsterdam;female;48;1;0;38383;33889,38;D;Rotterdam;KREUSCH, Mrs. clareta
+864;0;Leiden;female;NA;9;2;28570;40432,5;;Rotterdam;CIRAOLO, Miss. merola
+865;0;Utrecht;male;24;1;0;26587;31950;;Rotterdam;SOOTER, Mr. axel
+866;1;Utrecht;female;42;1;0;47406;31950;;Rotterdam;PITANIELLO, Mrs. jessalyn
+867;1;Utrecht;female;27;2;0;19784;32078,745;;Amsterdam (the Edge);DUROL, Miss. bernadina
+868;0;Amsterdam;male;31;1;0;22184;37574,37;A;Rotterdam;ANWAR, Mr. philip
+869;0;Leiden;male;NA;1;0;60759;31425;;Rotterdam;KEISTER, Mr. skye
+870;1;Leiden;male;4;2;1;74653;31669,995;;Rotterdam;TAPPEINER, Master. piotr
+871;0;Leiden;male;26;1;0;67937;31184,37;;Rotterdam;ANTRONICA, Mr. hewie
+872;1;Amsterdam;female;47;2;1;71703;37883,13;D;Rotterdam;SCOLLARD, Mrs. lisha
+873;0;Amsterdam;male;33;1;0;95321;30750;B;Rotterdam;BECKWITH, Mr. vaughn
+874;0;Leiden;male;47;1;0;64003;31350;;Rotterdam;DEROKO, Mr. garold
+875;1;Utrecht;female;28;2;0;76297;33600;;Amsterdam (the Edge);KITTEN, Mrs. corrine
+876;1;Leiden;female;15;1;0;25067;31083,75;;Amsterdam (the Edge);KUHAR, Miss. katleen
+877;0;Leiden;male;20;1;0;90030;31476,87;;Rotterdam;KLINETOB, Mr. sax
+878;0;Leiden;male;19;1;0;93872;31184,37;;Rotterdam;WESTERGAARD, Mr. haley
+879;0;Leiden;male;NA;1;0;42832;31184,37;;Rotterdam;TARZIA, Mr. obidiah
+880;1;Amsterdam;female;56;1;1;99080;42473,745;C;Amsterdam (the Edge);ESTRIDGE, Mrs. rosette
+881;1;Utrecht;female;25;1;1;59266;33900;;Rotterdam;COBARRUBIAS, Mrs. grata
+882;0;Leiden;male;33;1;0;45329;31184,37;;Rotterdam;EFRON, Mr. otho
+883;0;Leiden;female;22;1;0;14770;31577,505;;Rotterdam;IRELAND, Miss. lexie
+884;0;Utrecht;male;28;1;0;54045;31575;;Rotterdam;HOBER, Mr. osgood
+885;0;Leiden;male;25;1;0;46167;31057,5;;Rotterdam;FAMAGELTTO, Mr. hervey
+886;0;Leiden;female;39;1;5;90509;34368,75;;Utrecht;DALLAIRE, Mrs. steffane
+887;0;Utrecht;male;27;1;0;22748;31950;;Rotterdam;SPAGNOLA, Rev. mendy
+888;1;Amsterdam;female;19;1;0;29593;34500;B;Rotterdam;MENDICINO, Miss. tracie
+889;0;Leiden;female;NA;2;2;22339;33517,5;;Rotterdam;CAMLIN, Miss. carmelita
+890;1;Amsterdam;male;26;1;0;60171;34500;C;Amsterdam (the Edge);WEATHERBEE, Mr. reinaldos
+891;0;Leiden;male;32;1;0;95052;31162,5;;Utrecht;KUNI, Mr. lucian
